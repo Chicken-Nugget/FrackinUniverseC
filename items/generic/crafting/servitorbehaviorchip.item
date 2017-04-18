@@ -1,6 +1,6 @@
 {
   "itemName" : "servitorbehaviorchip",
-  "price" : 0,
+  "price" : 50,
   "rarity" : "Common",
   "category" : "craftingMaterial",
   "inventoryIcon" : "servitorbehaviorchip.png",

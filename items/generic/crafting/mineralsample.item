@@ -1,7 +1,7 @@
 {
   "itemName" : "mineralsample",
   "rarity" : "uncommon",
-  "price" : 70,
+  "price" : 50,
   "category" : "craftingMaterial",
   "inventoryIcon" : "mineralsample.png",
   "description" : "Useful sample of nutrient-rich minerals.",

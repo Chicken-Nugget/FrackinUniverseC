@@ -1,6 +1,6 @@
 {
   "itemName" : "servitorlaser",
-  "price" : 0,
+  "price" : 100,
   "rarity" : "Common",
   "category" : "craftingMaterial",
   "inventoryIcon" : "servitorlaser.png",
