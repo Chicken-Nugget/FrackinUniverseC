@@ -1,7 +1,7 @@
 {
   "itemName" : "penumbriteshard",
   "rarity" : "uncommon",
-    "price" : 200,
+    "price" : 400,
   "category" : "craftingMaterial",
   "inventoryIcon" : "penumbriteshard.png",
   "description" : "A perfectly refined shard of penumbrite.",

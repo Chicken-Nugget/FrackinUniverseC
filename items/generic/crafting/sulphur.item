@@ -1,6 +1,6 @@
 {
   "itemName" : "sulphur",
-  "price" : 20,
+  "price" : 50,
   "rarity" : "Common",
   "category" : "craftingMaterial",
   "inventoryIcon" : "sulphur.png",

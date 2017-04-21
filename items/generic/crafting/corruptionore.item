@@ -1,7 +1,7 @@
 {
   "itemName" : "corruptionore",
   "rarity" : "rare",
-  "price" : 300,
+  "price" : 200,
   "category" : "craftingMaterial",
   "inventoryIcon" : "corruptionore.png",
   "description" : "Some strange, corrupted mineral.",

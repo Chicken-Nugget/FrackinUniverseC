@@ -1,6 +1,6 @@
 {
   "input" : [
-    { "item" : "tombbrick3", "count" : 100 },
+    { "item" : "tombbrick3", "count" : 250 },
     { "item" : "teleportercore", "count" : 1 }
   ],
   "output" : {

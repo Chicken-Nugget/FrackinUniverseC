@@ -1,9 +1,13 @@
 {
   "input" : [
-    { "item" : "ff_plastic", "count" : 6 },
-    { "item" : "cryonicextract", "count" : 1 },
-    { "item" : "tungstenbar", "count" : 2 },
-    { "item" : "glass", "count" : 2 }
+    { "item" : "ff_plastic", "count" : 50 },
+    { "item" : "glass", "count" : 50 },
+    { "item" : "cryonicextract", "count" : 100 },
+    { "item" : "densiniumbar", "count" : 25 },
+    { "item" : "unstableparticles", "count" : 25 },
+    { "item" : "morphiteore", "count" : 25 },
+    { "item" : "triangliumpyramid", "count" : 100 },
+    { "item" : "diamond", "count" : 10 }
   ],
   "output" : {
     "item" : "genecabinet",

@@ -7,6 +7,7 @@
   "race" : "glitch",
   "category" : "furniture",
   "price" : 625,
+  "printable" : false,
 
   "objectType" : "loungeable",
   "sitFlipDirection" : true,

@@ -1,6 +1,6 @@
 {
   "input" : [
-    { "item" : "advancealloy", "count" : 12 },
+    { "item" : "advancealloy", "count" : 50 },
     { "item" : "teleportercore", "count" : 1 }
   ],
   "output" : {

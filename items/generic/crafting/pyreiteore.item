@@ -1,7 +1,7 @@
 {
   "itemName" : "pyreiteore",
   "rarity" : "legendary",
-  "price" : 410,
+  "price" : 700,
   "category" : "craftingMaterial",
   "inventoryIcon" : "pyreiteore.png",
   "description" : "An ore that burns eternally.",

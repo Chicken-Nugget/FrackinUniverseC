@@ -1,7 +1,7 @@
 {
   "itemName" : "densiniumore",
   "rarity" : "legendary",
-  "price" : 400,
+  "price" : 600,
   "category" : "craftingMaterial",
   "inventoryIcon" : "densiniumore.png",
   "description" : "A multi-phasic super-dense metal.",

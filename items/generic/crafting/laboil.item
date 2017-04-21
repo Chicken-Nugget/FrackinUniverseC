@@ -1,7 +1,7 @@
 {
   "itemName" : "laboil",
   "rarity" : "Common",
-  "price" : 120,
+  "price" : 100,
   "category" : "craftingMaterial",
   "inventoryIcon" : "laboil.png",
   "description" : "Can be extracted for measures of oil.",

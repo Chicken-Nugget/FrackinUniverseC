@@ -1,6 +1,6 @@
 {
   "input" : [
-    { "item" : "copperbar", "count" : 50 },
+    { "item" : "copperbar", "count" : 75 },
     { "item" : "teleportercore", "count" : 1 }
   ],
   "output" : {

@@ -1,7 +1,7 @@
 {
   "itemName" : "moonstonebar",
   "rarity" : "uncommon",
-    "price" : 270,
+    "price" : 250,
   "category" : "craftingMaterial",
   "inventoryIcon" : "moonstonebar.png",
   "description" : "Forged moonstone.",

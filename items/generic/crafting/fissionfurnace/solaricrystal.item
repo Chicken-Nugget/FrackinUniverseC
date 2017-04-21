@@ -1,7 +1,7 @@
 {
   "itemName" : "solaricrystal",
   "rarity" : "common",
-    "price" : 180,
+    "price" : 400,
   "category" : "craftingMaterial",
   "inventoryIcon" : "solaricrystal.png",
   "description" : "Condensed and hardened Lunari crystal.",

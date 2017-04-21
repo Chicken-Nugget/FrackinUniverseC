@@ -1,17 +1,18 @@
 {
   "itemName" : "agaranichor",
   "rarity" : "rare",
+  "price" : 100,
   "category" : "craftingMaterial",
   "inventoryIcon" : "agaranichor.png",
   "description" : "An unstable goo that is commonly found in certain mushrooms.",
   "shortdescription" : "^#88e25b;Fungal Ichor^white;",
   "radioMessagesOnPickup" : [ "pickupAgaranichor" ],
   "learnBlueprintsOnPickup" : [ 
-  "mutagene2", 
-  "fubiowand",
-  "cellulararmorpants",
-  "cellulararmorchest",
-  "cellulararmorhead"
+	  "mutagene2", 
+	  "fubiowand",
+	  "cellulararmorpants",
+	  "cellulararmorchest",
+	  "cellulararmorhead"
   ],
   "itemTags" : [ "reagent" ]
 }

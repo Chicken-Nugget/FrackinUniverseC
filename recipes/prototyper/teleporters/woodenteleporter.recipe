@@ -1,6 +1,6 @@
 {
   "input" : [
-    { "item" : "darkwoodmaterial", "count" : 100 },
+    { "item" : "darkwoodmaterial", "count" : 1000 },
     { "item" : "teleportercore", "count" : 1 }
   ],
   "output" : {

@@ -1,7 +1,7 @@
 {
   "itemName" : "mutaviskthread",
   "rarity" : "rare",
-  "price" : 120,
+  "price" : 150,
   "category" : "craftingMaterial",
   "inventoryIcon" : "mutaviskthread.png",
   "description" : "A strange, super-tough bio-thread.",

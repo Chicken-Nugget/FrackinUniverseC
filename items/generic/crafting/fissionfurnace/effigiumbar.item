@@ -1,7 +1,7 @@
 {
   "itemName" : "effigiumbar",
   "rarity" : "legendary",
-    "price" : 160,
+    "price" : 1600,
   "category" : "craftingMaterial",
   "inventoryIcon" : "effigiumbar.png",
   "description" : "Light has issues refracting off of this surface, rendering this metal nearly invisible.",

@@ -1,7 +1,7 @@
 {
   "itemName" : "xithriciteore",
   "rarity" : "legendary",
-  "price" : 410,
+  "price" : 800,
   "category" : "craftingMaterial",
   "inventoryIcon" : "xithriciteore.png",
   "description" : "A super-dense crystalline metal.",

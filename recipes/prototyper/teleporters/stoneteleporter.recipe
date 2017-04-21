@@ -1,6 +1,6 @@
 {
   "input" : [
-    { "item" : "cobblestonematerial", "count" : 100 },
+    { "item" : "cobblestonematerial", "count" : 500 },
     { "item" : "teleportercore", "count" : 1 }
   ],
   "output" : {

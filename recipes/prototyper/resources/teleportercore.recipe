@@ -2,8 +2,8 @@
   "input" : [
     { "item" : "durasteelbar", "count" : 3 },
     { "item" : "battery", "count" : 2 },
-    { "item" : "graphene", "count" : 5 },
-    { "item" : "fuprocessor", "count" : 1 }
+    { "item" : "diamond", "count" : 1 },
+    { "item" : "particlecore", "count" : 1 }
   ],
   "output" : {
     "item" : "teleportercore",
