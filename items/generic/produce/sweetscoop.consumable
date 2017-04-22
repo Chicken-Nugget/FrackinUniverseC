@@ -1,7 +1,7 @@
 {
   "itemName" : "sweetscoop",
   "rarity" : "Common",
-  "foodValue" : 40,
+  "foodValue" : 5,
   "price" : 60,
   "inventoryIcon" : "sweetscoop.png",
   "description" : "Effect:

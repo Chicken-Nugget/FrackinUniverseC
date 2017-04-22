@@ -34,8 +34,8 @@
   
   // Common
   "commonOutputs" : [ "liquidwater", "fu_oxygen", "fu_hydrogen", "fu_nitrogen" ],
-  "uncommonOutputs" : [ "fu_carbon", "fu_salt", "berliniteore", "ff_mercury", "geneticmaterial" ],
-  "rareOutputs" : [ "helium3gasliquid", "shadowgasliquid", "cellmateria", "mineralsample", "deuterium", "tritium", "dnasample", "silverore", "goldore" ],
+  "uncommonOutputs" : [ "fu_carbon", "fu_salt", "ff_mercury", "geneticmaterial" ],
+  "rareOutputs" : [ "helium3gasliquid", "shadowgasliquid", "cellmateria", "mineralsample", "deuterium", "tritium", "dnasample", "silverore", "goldore", "berliniteore" ],
   
   // Biome Special
 
@@ -45,7 +45,7 @@
   
   "aetherOutputs" : [ "liquidaether", "fu_nitrogen", "fu_hydrogen", "liquidpoison" ],
   "aetheruncommonOutputs" : [ "fu_salt", "sulphur", "liquidsulphuricacid" ],
-  "aetherrareOutputs" : [ "mutagene1", "mutagene2", "shadowgasliquid", "mutagene3", "cellmateria", "geneticmaterial", "mineralsample", "deuterium", "tritium", "dnasample", "uraniumore", ],
+  "aetherrareOutputs" : [ "mutagene1", "mutagene2", "shadowgasliquid", "mutagene3", "cellmateria", "geneticmaterial", "mineralsample", "deuterium", "tritium", "dnasample", "uraniumore" ],
   
   "moonOutputs" : [ "fu_hydrogen", "fu_nitrogen" ],
   "moonuncommonOutputs" : [ "fu_carbon", "rawminerals", "helium3gasliquid", "liquidfuel", "solidfuel" ],
