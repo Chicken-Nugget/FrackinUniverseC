@@ -12,7 +12,7 @@
         "effect" : "defense2",
         "amount" : 15,
 		"duration" : 45
-         },
+        },
 		{
         "effect" : "slow",
         "duration" : 60

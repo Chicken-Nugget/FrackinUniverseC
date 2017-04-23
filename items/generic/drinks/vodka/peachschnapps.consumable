@@ -8,7 +8,6 @@
   "shortdescription" : "Peach Schnapps",
   "handPosition" : [0, -2],
   "effects" : [ [
-
 		{
         "effect" : "slow",
         "duration" : 60
