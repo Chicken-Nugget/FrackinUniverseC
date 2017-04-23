@@ -5,7 +5,7 @@
   "description" : "Generates a field that heals any lifeform within its area of effect. Requires 24u of power.",
   "shortdescription" : "^cyan;Regeneration Matrix^white;",
   "race" : "generic",
-  "price" : 2000,
+  "price" : 5000,
   "category" : "wire",
   "printable" : false,
 

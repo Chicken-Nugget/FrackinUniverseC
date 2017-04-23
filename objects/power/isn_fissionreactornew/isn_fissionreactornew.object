@@ -4,7 +4,7 @@
     "colonyTags" : [ "science", "power", "radioactive" ],
   "category" : "wire",
   "objectType" : "container",
-  "price" : 11000,
+  "price" : 10000,
   "description" : "Uses radioactive materials to generate power. Can generate from 4u to 80u. Higher power will be ^red;highly radioactive^reset;.",
   "shortdescription" : "^cyan;Fission Reactor^white;",
   "race" : "generic",
