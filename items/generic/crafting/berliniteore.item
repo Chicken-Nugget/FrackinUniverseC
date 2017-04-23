@@ -1,7 +1,7 @@
 {
   "itemName" : "berliniteore",
   "rarity" : "Common",
-  "price" : 75,
+  "price" : 50,
   "category" : "craftingMaterial",
   "inventoryIcon" : "berliniteore.png",
   "description" : "An ore that can be used to produce phosphorus via extraction.",

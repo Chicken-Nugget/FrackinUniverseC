@@ -1,7 +1,7 @@
 {
   "itemName" : "blobbushjelly",
   "rarity" : "uncommon",
-  "price" : 150,
+  "price" : 75,
   "category" : "craftingMaterial",
   "inventoryIcon" : "blobbushjelly.png",
   "description" : "A strange slime with fascinating properties. May be toxic.",

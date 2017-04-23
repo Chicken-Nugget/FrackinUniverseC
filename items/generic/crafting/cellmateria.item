@@ -1,7 +1,7 @@
 {
   "itemName" : "cellmateria",
   "rarity" : "Common",
-  "price" : 75,
+  "price" : 50,
   "category" : "craftingMaterial",
   "inventoryIcon" : "cellmateria.png",
   "description" : "A material produced from various mixtures of cells.",

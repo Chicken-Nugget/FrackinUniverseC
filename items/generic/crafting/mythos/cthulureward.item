@@ -1,6 +1,6 @@
 {
   "itemName" : "cthulureward",
-  "price" : 12600,
+  "price" : 10000,
   "rarity" : "legendary",
   "inventoryIcon" : "cthulureward.png",
   "category" : "artifact",

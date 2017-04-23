@@ -1,7 +1,7 @@
 {
   "itemName" : "portablelight",
   "rarity" : "uncommon",
-  "price" : 200,
+  "price" : 100,
   "category" : "medicine",
   "inventoryIcon" : "portablelight.png",
   "description" : "A handy portable light source.",

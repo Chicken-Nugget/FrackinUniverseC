@@ -1,7 +1,7 @@
 {
   "itemName" : "irradiumbar",
   "rarity" : "uncommon",
-    "price" : 800,
+    "price" : 700,
   "category" : "craftingMaterial",
   "inventoryIcon" : "irradiumbar.png",
   "description" : "Compressed, purified irradium.",

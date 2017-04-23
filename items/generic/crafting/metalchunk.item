@@ -1,7 +1,7 @@
 {
   "itemName" : "metalchunk",
   "rarity" : "Common",
-  "price" : 50,
+  "price" : 25,
   "category" : "craftingMaterial",
   "inventoryIcon" : "metalchunk.png",
   "description" : "A chunk of solid metal.",

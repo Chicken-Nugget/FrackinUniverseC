@@ -1,7 +1,7 @@
 {
   "itemName" : "mascagniteore",
   "rarity" : "Common",
-  "price" : 75,
+  "price" : 50,
   "category" : "craftingMaterial",
   "inventoryIcon" : "mascagniteore.png",
   "description" : "A source of ammonium sulfate via extraction.",

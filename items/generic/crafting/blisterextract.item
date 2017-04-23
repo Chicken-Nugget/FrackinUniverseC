@@ -1,7 +1,7 @@
 {
   "itemName" : "blisterextract",
   "rarity" : "uncommon",
-  "price" : 150,
+  "price" : 100,
   "category" : "craftingMaterial",
   "inventoryIcon" : "blisterextract.png",
   "description" : "A blister extract that can be used to craft Blister gear.",

@@ -1,7 +1,7 @@
 {
   "itemName" : "goldenfleece",
   "rarity" : "rare",
-  "price" : 250,
+  "price" : 75,
   "category" : "craftingMaterial",
   "inventoryIcon" : "goldenfleece.png",
   "description" : "A rare and enormously expensive fabric",

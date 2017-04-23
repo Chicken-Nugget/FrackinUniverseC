@@ -1,6 +1,7 @@
 {
   "itemName" : "reptilescales",
   "rarity" : "rare",
+  "price" : 100,
   "category" : "craftingMaterial",
   "inventoryIcon" : "reptilescales.png",
   "description" : "A good quality pelt of reptile scales.",

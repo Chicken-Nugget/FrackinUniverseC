@@ -1,7 +1,7 @@
 {
   "itemName" : "geneticmaterial",
   "rarity" : "Common",
-  "price" : 3,
+  "price" : 4,
   "category" : "craftingMaterial",
   "inventoryIcon" : "geneticmaterial.png",
   "description" : "Unaltered genetic material. Used for scientific research.",
