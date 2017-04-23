@@ -25,7 +25,7 @@
 
   "openSounds" : [ "/sfx/objects/chest_small_open.ogg" ],
   "closeSounds" : [ "/sfx/objects/chest_small_close.ogg" ],
-  "slotCount" : 64,
+  "slotCount" : 32,
   "uiConfig" : "/interface/chests/chest<slots>.config",
   "frameCooldown" : 67,
   "autoCloseCooldown" : 3600
