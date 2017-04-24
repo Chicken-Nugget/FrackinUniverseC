@@ -4,18 +4,14 @@
   "rarity" : "Common",
   "category" : "drink",
   "inventoryIcon" : "grapeschnapps.png",
-  "description" : "A bottle of grape flavored schnapps!",
+  "description" : "Effect: ^orange;300s^reset;
+^cyan;+30% Cosmic Resistance, Immunity to Insanity and Pressure^reset;",
   "shortdescription" : "Grape Schnapps",
   "handPosition" : [0, -2],
+  
   "effects" : [ [
-		{
-        "effect" : "slow",
-        "duration" : 60
-		},
-		{
-		"effect" : "booze",
-		"amount" : 3,
-		"duration" : 60
-        }
+		{"effect" : "cosmicblock3", "duration" : 300},
+		{"effect" : "insanityimmunity", "duration" : 300},
+		{"effect" : "pressureimmunity", "duration" : 300}
     ] ]
 }

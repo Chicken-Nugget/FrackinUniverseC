@@ -4,18 +4,15 @@
   "rarity" : "Common",
   "category" : "drink",
   "inventoryIcon" : "bananaschnapps.png",
-  "description" : "A bottle of banana flavored schnapps!",
+  "description" : "Effect: ^orange;300s^reset;
+^cyan;+30% Radiation Resistance, Immunity to Shadow, Deadly Radiation, and Erchius Horror^reset;",
   "shortdescription" : "Banana Schnapps",
   "handPosition" : [0, -2],
+  
   "effects" : [ [
-		{
-        "effect" : "slow",
-        "duration" : 60
-		},
-		{
-		"effect" : "booze",
-		"amount" : 3,
-		"duration" : 60
-        }
+		{"effect" : "shadowimmunity", "duration" : 300},
+		{"effect" : "erchiusimmunity", "duration" : 300},
+		{"effect" : "radioactiveblock3", "duration" : 300},
+		{"effect" : "ffextremeradiationimmunity", "duration" : 300}
     ] ]
 }

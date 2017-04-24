@@ -4,18 +4,15 @@
   "rarity" : "Common",
   "category" : "drink",
   "inventoryIcon" : "peachschnapps.png",
-  "description" : "A bottle of peach flavored schnapps!",
+  "description" : "Effect: ^orange;300s^reset;
+^cyan;+30% Fire Resistance, Fire Nova, Immunity to Deadly Heat and Fire^reset;",
   "shortdescription" : "Peach Schnapps",
   "handPosition" : [0, -2],
+  
   "effects" : [ [
-		{
-        "effect" : "slow",
-        "duration" : 60
-		},
-		{
-		"effect" : "booze",
-		"amount" : 3,
-		"duration" : 60
-        }
+		{"effect" : "fireburst", "duration" : 300},
+		{"effect" : "iceblock3", "duration" : 300},
+		{"effect" : "fireStatusImmunity", "duration" : 300},
+		{"effect" : "ffextremeheatimmunity", "duration" : 300}
     ] ]
 }

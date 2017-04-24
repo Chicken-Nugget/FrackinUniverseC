@@ -4,22 +4,12 @@
   "price" : 100,
   "category" : "drink",
   "inventoryIcon" : "perry.png",
-  "description" : "A bottle of sweet perry!",
+  "description" : "Effect: ^orange;300s^reset;
+^cyan;+50 Max Energy^reset;",
   "shortdescription" : "Perry",
   "handPosition" : [0, -2],
+  
   "effects" : [ [
-        {
-        "effect" : "defense2",
-		"duration" : 45
-        },
-		{
-        "effect" : "slow",
-        "duration" : 60
-		},
-		{
-		"effect" : "booze",
-		"amount" : 1,
-		"duration" : 60
-        }
+		{"effect" : "maxenergyboost6", "duration" : 300}
     ] ]
 }

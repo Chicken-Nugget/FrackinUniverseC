@@ -4,23 +4,14 @@
   "price" : 100,
   "category" : "drink",
   "inventoryIcon" : "perrybottle.png",
-  "description" : "A large bottle of sweet perry!",
+  "description" : "Effect: ^orange;300s^reset;
+^cyan;+90 Max Energy, +20% Speed, +20% Jump^reset;",
   "shortdescription" : "Poire",
   "handPosition" : [0, -2],
+  
   "effects" : [ [
-        {
-        "effect" : "defense2",
-        "amount" : 15,
-		"duration" : 45
-        },
-		{
-        "effect" : "slow",
-        "duration" : 60
-		},
-		{
-		"effect" : "booze",
-		"amount" : 2,
-		"duration" : 60
-        }
+		{"effect" : "maxenergyboost90", "duration" : 300},
+		{"effect" : "runboost", "amount" : 0.20, "duration" : 300},
+		{"effect" : "jumpboost", "amount" : 0.20, "duration" : 300}
     ] ]
 }

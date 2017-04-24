@@ -4,22 +4,16 @@
   "price" : 100,
   "category" : "drink",
   "inventoryIcon" : "meadbottle.png",
-  "description" : "A jug of sweet meadbee mead!",
+  "description" : "Effect: ^orange;600s^reset;
+^cyan;Immunity to Liquid Nitrogen, Poison, Bio-Ooze, Pus, and Beestings^reset;",
   "shortdescription" : "Meadbee Mead",
   "handPosition" : [0, -2],
+  
   "effects" : [ [
-        {
-        "effect" : "defense2",
-		"duration" : 45
-        },
-		{
-        "effect" : "slow",
-        "duration" : 60
-		},
-		{
-		"effect" : "booze",
-		"amount" : 2,
-		"duration" : 60
-        }
+		{"effect" : "liquidnitrogenimmunity", "duration" : 600},
+		{"effect" : "poisonStatusImmunity", "duration" : 600},
+		{"effect" : "beestingimmunity", "duration" : 600},
+		{"effect" : "biooozeimmunity", "duration" : 600},
+		{"effect" : "pusimmunity", "duration" : 600}
     ] ]
 }

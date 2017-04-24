@@ -4,18 +4,15 @@
   "price" : 100,
   "category" : "drink",
   "inventoryIcon" : "darkrum.png",
-  "description" : "Yo-ho-ho and a bottle of rum!",
+  "description" : "Effect: ^orange;300s^reset;
+^cyan;Darkness Regeneration, +70 Max Health^reset;",
   "shortdescription" : "Dark Rum",
   "handPosition" : [0, -2],
+  
   "effects" : [ [
-		{
-        "effect" : "slow",
-        "duration" : 60
-		},
-		{
-		"effect" : "booze",
-		"amount" : 3,
-		"duration" : 60
-        }
+		{"effect" : "maxhealthboost6", "duration" : 300},
+		{"effect" : "maxhealthboost6", "duration" : 300}
     ] ]
 }
+maxhealthboost70
+darkregen

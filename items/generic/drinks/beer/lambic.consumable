@@ -4,21 +4,13 @@
   "category" : "drink",
   "price" : 110,
   "inventoryIcon" : "lambic.png",
-  "description" : "A bottle of grape-infused lambic. The alcohol content is around 5%.",
+  "description" : "Effect: ^orange;300s^reset;
+^cyan;+40% Energy Regen, +20% Max Energy^reset;",
   "shortdescription" : "Grape Lambic",
   "handPosition" : [0, -4],
+  
   "effects" : [ [
-        {
-        "effect" : "defense2",
-		"duration" : 45
-        },
-		{
-        "effect" : "slow",
-        "duration" : 10
-		},
-		{
-		"effect" : "booze",
-		"duration" : 25
-        }
+		{"effect" : "energyregenfu30", "duration" : 300},
+		{"effect" : "percentenergyboost20", "duration" : 300}
     ] ]
 }

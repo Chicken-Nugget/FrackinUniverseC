@@ -4,18 +4,12 @@
   "category" : "drink",
   "price" : 100,
   "inventoryIcon" : "agedrum.png",
-  "description" : "Yo-ho-ho and a bottle of rum!",
+  "description" : "Effect: ^orange;600s^reset;
+^cyan;Weak Regeneration^reset;",
   "shortdescription" : "Aged Rum",
   "handPosition" : [0, -2],
+  
   "effects" : [ [
-		{
-        "effect" : "slow",
-        "duration" : 60
-		},
-		{
-		"effect" : "booze",
-		"amount" : 3,
-		"duration" : 60
-        }
+		{"effect" : "regenerationmiraclegrass", "duration" : 600}
     ] ]
 }

@@ -4,21 +4,13 @@
   "price" : 100,
   "category" : "drink",
   "inventoryIcon" : "cider.png",
-  "description" : "A bottle of apple cider!",
+  "description" : "Effect: ^orange;300s^reset;
+^cyan;+20% Energy Regen, +10% Max Energy^reset;",
   "shortdescription" : "Hard Apple Cider",
   "handPosition" : [0, -2],
+  
   "effects" : [ [
-        {
-        "effect" : "defense2",
-		"duration" : 45
-        },
-		{
-        "effect" : "slow",
-        "duration" : 60
-		},
-		{
-		"effect" : "booze",
-		"duration" : 60
-        }
+		{"effect" : "energyregenfu20", "duration" : 300},
+		{"effect" : "percentenergyboost10", "duration" : 300}
     ] ]
 }

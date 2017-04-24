@@ -4,22 +4,12 @@
   "price" : 100,
   "category" : "drink",
   "inventoryIcon" : "darkale.png",
-  "description" : "A bottle of mild ale. The alcohol content is around 5%.",
+  "description" : "Effect: ^orange;300s^reset;
+^cyan;+30% Rage^reset;",
   "shortdescription" : "Mild Ale",
   "handPosition" : [0, -4],
+  
   "effects" : [ [
-        {
-        "effect" : "defense2",
-		"duration" : 45
-        },
-		{
-        "effect" : "slow",
-        "duration" : 10
-		},
-		{
-		"effect" : "booze",
-		"amount" : 1,
-		"duration" : 15
-        }
+		{"effect" : "rage30", "duration" : 300}
     ] ]
 }

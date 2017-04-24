@@ -3,15 +3,21 @@
   "rarity" : "Common",
   "category" : "drink",
   "inventoryIcon" : "weyene.png",
-  "description" : "Red, red wine.",
+  "description" : "Effect: ^orange;180s^reset;
+^cyan;+25% Speed, +25% Jump, Water Walk^reset;",
   "shortdescription" : "Wine",
   "eventCategory" : "eventCrop",
-  "foodValue" : 10,
+  "foodValue" : 1,
   "price" : 25,
   "tooltipKind" : "food",
   "builder" : "/items/buildscripts/buildfood.lua",
   "maxStack" : 100,
   "itemAgingScripts" : ["/scripts/items/rotting.lua"],
   "rottingMultiplier" : 3.0,
-  "effects" : [ [ "heal_10"  ] ]
+  
+  "effects" : [ [
+		{"effect" : "runboost", "amount" : 0.25, "duration" : 180},
+		{"effect" : "jumpboost", "amount" : 0.25, "duration" : 180},
+		{"effect" : "waterwalk", "duration" : 180}
+	] ]
 }

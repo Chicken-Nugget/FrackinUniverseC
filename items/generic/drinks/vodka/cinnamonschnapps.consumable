@@ -4,18 +4,15 @@
   "rarity" : "Common",
   "category" : "drink",
   "inventoryIcon" : "cinnamonschnapps.png",
-  "description" : "A bottle of cinnamon-infused schnapps!",
+  "description" : "Effect: ^orange;300s^reset;
+^cyan;Poison Burst, Thorns, Immunity to Sulphuric Acid and Proto-Poison^reset;",
   "shortdescription" : "Cinnamon Schnapps",
   "handPosition" : [0, -2],
+  
   "effects" : [ [
-		{
-        "effect" : "slow",
-        "duration" : 60
-		},
-		{
-		"effect" : "booze",
-		"amount" : 3,
-		"duration" : 60
-        }
+		{"effect" : "sulphuricimmunitywhitespine", "duration" : 300},
+		{"effect" : "burstfayshroom", "duration" : 300},
+		{"effect" : "thornsstranglevine", "duration" : 300},
+		{"effect" : "protoimmunity", "duration" : 300}
     ] ]
 }

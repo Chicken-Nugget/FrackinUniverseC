@@ -4,21 +4,12 @@
   "category" : "drink",
   "price" : 100,
   "inventoryIcon" : "lightale.png",
-  "description" : "A bottle of very pale ale. The alcohol content is low.",
+  "description" : "Effect: ^orange;150s^reset;
+^cyan;+50% Damage^reset;",
   "shortdescription" : "Pale Ale",
   "handPosition" : [0, -4],
+  
   "effects" : [ [
-        {
-        "effect" : "defense2",
-		"duration" : 45
-        },
-		{
-        "effect" : "slow",
-        "duration" : 10
-		},
-		{
-		"effect" : "booze",
-		"duration" : 15
-        }
+		{"effect" : "damagebonus6", "duration" : 150}
     ] ]
 }

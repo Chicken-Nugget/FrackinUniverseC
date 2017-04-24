@@ -4,21 +4,13 @@
   "category" : "drink",
   "price" : 300,
   "inventoryIcon" : "champagne.png",
-  "description" : "Break out the bubbly!",
+  "description" : "Effect: ^orange;300s^reset;
+^cyan;+10% Energy Regen, +5% Max Energy^reset;",
   "shortdescription" : "Champagne",
   "handPosition" : [0, -4],
+  
   "effects" : [ [
-        {
-        "effect" : "defense2",
-		"duration" : 45
-        },
-		{
-        "effect" : "slow",
-        "duration" : 10
-		},
-		{
-		"effect" : "booze",
-		"duration" : 5
-        }
+		{"effect" : "energyregenfu10", "duration" : 300},
+		{"effect" : "percentenergyboost5", "duration" : 300}
     ] ]
 }

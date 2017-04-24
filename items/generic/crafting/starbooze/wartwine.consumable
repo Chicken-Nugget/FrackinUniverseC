@@ -3,15 +3,20 @@
   "rarity" : "Common",
   "category" : "drink",
   "inventoryIcon" : "wartwine.png",
-  "description" : "Mmm. Warty alcohol. That sounds...tasty?",
+  "description" : "Effect: ^orange;90s^reset;
+^cyan;+40% Speed, +40% Jump^reset;",
   "shortdescription" : "Wart Wine",
   "eventCategory" : "eventCrop",
-  "foodValue" : 10,
+  "foodValue" : 1,
   "price" : 25,
   "tooltipKind" : "food",
   "builder" : "/items/buildscripts/buildfood.lua",
   "maxStack" : 100,
   "itemAgingScripts" : ["/scripts/items/rotting.lua"],
   "rottingMultiplier" : 3.0,
-  "effects" : [ [ "heal_5"  ] ]
+  
+  "effects" : [ [
+		{"effect" : "runboost", "amount" : 0.40, "duration" : 90},
+		{"effect" : "jumpboost", "amount" : 0.40, "duration" : 90}
+	] ]
 }

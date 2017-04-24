@@ -3,15 +3,20 @@
   "rarity" : "Common",
   "category" : "drink",
   "inventoryIcon" : "ricewine.png",
-  "description" : "A bitter, low quality wine. But it works.",
+  "description" : "Effect: ^orange;180s^reset;
+^cyan;+10% Speed, +10% Jump^reset;",
   "shortdescription" : "Rice Wine",
   "eventCategory" : "eventCrop",
-  "foodValue" : 10,
+  "foodValue" : 1,
   "price" : 25,
   "tooltipKind" : "food",
   "builder" : "/items/buildscripts/buildfood.lua",
   "maxStack" : 100,
   "itemAgingScripts" : ["/scripts/items/rotting.lua"],
   "rottingMultiplier" : 3.0,
-  "effects" : [ [ "heal_5"  ] ]
+  
+  "effects" : [ [
+		{"effect" : "runboost", "amount" : 0.10, "duration" : 180},
+		{"effect" : "jumpboost", "amount" : 0.10, "duration" : 180}
+	] ]
 }

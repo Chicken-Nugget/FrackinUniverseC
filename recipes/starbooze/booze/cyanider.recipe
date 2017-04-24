@@ -9,7 +9,7 @@
   ],
   "output" : {
     "item" : "cyanider",
-    "count" : 1
+    "count" : 3
   },
   "groups" : [ "fermenter", "all", "other" ]
 }

@@ -4,21 +4,17 @@
   "category" : "drink",
   "price" : 100,
   "inventoryIcon" : "beer.png",
-  "description" : "A mug of beer. The alcohol content is relatively low.",
+  "description" : "Effect: ^orange;300s^reset;
+^cyan;Immunity to Slush, Snow, Ice, Mud, Tar, and Slime^reset;",
   "shortdescription" : "Wheat Beer",
   "handPosition" : [0, -4],
+  
   "effects" : [ [
-        {
-        "effect" : "defense2",
-		"duration" : 45
-        },
-		{
-        "effect" : "slow",
-        "duration" : 10
-		},
-		{
-		"effect" : "booze",
-		"duration" : 25
-        }
+		{"effect" : "slushslowimmunity", "duration" : 300},
+		{"effect" : "snowslowimmunity", "duration" : 300},
+		{"effect" : "iceslipimmunity", "duration" : 300},
+		{"effect" : "blacktarimmunity", "duration" : 300},
+		{"effect" : "fumudslowimmunity", "duration" : 300},
+		{"effect" : "slimestickimmunity", "duration" : 300}
     ] ]
 }

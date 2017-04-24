@@ -4,21 +4,12 @@
   "category" : "drink",
   "price" : 100,
   "inventoryIcon" : "lager.png",
-  "description" : "A bottle of frothy lager. The alcohol content is around 5%.",
+  "description" : "Effect: ^orange;300s^reset;
+^cyan;+25% Damage^reset;",
   "shortdescription" : "Lager",
   "handPosition" : [0, -4],
+  
   "effects" : [ [
-        {
-        "effect" : "defense2",
-		"duration" : 45
-        },
-		{
-        "effect" : "slow",
-        "duration" : 10
-		},
-		{
-		"effect" : "booze",
-		"duration" : 25
-        }
+		{"effect" : "damagebonus4", "duration" : 300}
     ] ]
 }
