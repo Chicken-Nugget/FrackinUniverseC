@@ -1,12 +1,12 @@
 {
   "input" : [
-    { "item" : "liquidwastewater", "count" : 1 },
+    { "item" : "liquidwastewater", "count" : 2 },
     { "item" : "sulphur", "count" : 1 }
   ],
   "output" : {
     "item" : "liquidsulphuricacid",
-    "count" : 1
+    "count" : 2
   },
   "groups" : [ "chemlab2", "liquids", "all" ],
-  "duration" : 0.25
+  "duration" : 0.1
 }

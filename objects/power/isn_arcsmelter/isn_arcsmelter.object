@@ -2,7 +2,7 @@
   "objectName" : "isn_arcsmelter",
   "rarity" : "legendary",
   "colonyTags" : [ "science" ],
-  "description" : "This incredibly efficient furnace can extract rare materials while quickly smelting ores. ^cyan;Requires ^orange;12u ^cyan;power.^reset;",
+  "description" : "This incredibly efficient furnace can extract rare materials while quickly smelting ores. ^cyan;Requires ^orange;16u ^cyan;power.^reset;",
   "shortdescription" : "^cyan;Arc Smelter^white;",
   "race" : "generic",
   "category" : "^orange;Extraction Device^reset;",

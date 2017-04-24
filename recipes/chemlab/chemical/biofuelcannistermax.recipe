@@ -1,12 +1,13 @@
 {
   "input" : [
-    { "item" : "vialproto", "count" : 1},
-    { "item" : "fu_salt", "count" : 1 },
-    { "item" : "fu_hydrogen", "count" : 2 }
+    { "item" : "vialproto", "count" : 5 },
+    { "item" : "fu_salt", "count" : 10 },
+    { "item" : "fu_hydrogen", "count" : 20 }
   ],
   "output" : {
     "item" : "biofuelcannistermax",
     "count" : 1
   },
-  "groups" : [ "chemlab3", "chemical", "all" ], "duration" : 0.01
+  "groups" : [ "chemlab3", "chemical", "all" ], 
+  "duration" : 0.5
 }

@@ -1,8 +1,8 @@
 {
   "input" : [
-    { "item" : "fu_hydrogen", "count" : 2 },
-    { "item" : "fu_nitrogen", "count" : 2 },
-    { "item" : "mineralsample", "count" : 2 }
+    { "item" : "fu_hydrogen", "count" : 75 },
+    { "item" : "fu_nitrogen", "count" : 75 },
+    { "item" : "mineralsample", "count" : 25 }
   ],
   "output" : {
     "item" : "cryonicextract",

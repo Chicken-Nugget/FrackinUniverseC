@@ -8,5 +8,5 @@
     "count" : 1
   },
   "groups" : [ "chemlab1", "liquids", "all" ],
-  "duration" : 0.25
+  "duration" : 0.1
 }

@@ -2,7 +2,7 @@
   "objectName" : "fu_blastfurnace",
   "rarity" : "rare",
   "colonyTags" : [ "science" ],
-  "description" : "A superior furnace for smelting mass quantities. ^cyan;Requires ^orange;4u ^cyan;power.^reset;",
+  "description" : "A superior furnace for smelting mass quantities. ^cyan;Requires ^orange;6u ^cyan;power.^reset;",
   "shortdescription" : "^cyan;Blast Furnace^white;",
   "race" : "generic",
   "category" : "^orange;Extraction Device^reset;",

@@ -1,8 +1,8 @@
 {
   "input" : [
-    { "item" : "plantmatter", "count" : 2 },
-    { "item" : "geneticmaterial", "count" : 1 },
-    { "item" : "fu_carbon", "count" : 2 }
+    { "item" : "plantmatter", "count" : 50 },
+    { "item" : "geneticmaterial", "count" : 10 },
+    { "item" : "fu_carbon", "count" : 20 }
   ],
   "output" : {
     "item" : "livingroot",

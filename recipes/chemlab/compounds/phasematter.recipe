@@ -1,8 +1,8 @@
 {
   "input" : [
-    { "item" : "rawminerals", "count" : 2 },
-    { "item" : "moonstonebar", "count" : 1 },
-    { "item" : "thoriumrod", "count" : 1 }
+    { "item" : "rawminerals", "count" : 25 },
+    { "item" : "moonstonebar", "count" : 5 },
+    { "item" : "thoriumrod", "count" : 2 }
   ],
   "output" : {
     "item" : "phasematter",

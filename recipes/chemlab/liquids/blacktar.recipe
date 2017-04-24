@@ -5,8 +5,8 @@
   ],
   "output" : {
     "item" : "liquidblacktar",
-    "count" : 1
+    "count" : 2
   },
   "groups" : [ "chemlab1", "liquids", "all" ],
-  "duration" : 0.25
+  "duration" : 0.1
 }

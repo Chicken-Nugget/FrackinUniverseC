@@ -1,12 +1,13 @@
 {
   "input" : [
-    { "item" : "erithianalgae", "count" : 1},
-    { "item" : "fu_salt", "count" : 1 },
-    { "item" : "fu_nitrogen", "count" : 1 }
+    { "item" : "erithianalgae", "count" : 5 },
+    { "item" : "fu_salt", "count" : 10 },
+    { "item" : "fu_nitrogen", "count" : 10 }
   ],
   "output" : {
     "item" : "biofuelcannisteradv",
     "count" : 1
   },
-  "groups" : [ "chemlab2", "chemical", "all" ], "duration" : 0.01
+  "groups" : [ "chemlab2", "chemical", "all" ], 
+  "duration" : 0.5
 }

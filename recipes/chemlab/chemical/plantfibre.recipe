@@ -1,10 +1,10 @@
 {
   "input" : [
-    { "item" : "plantfibre", "count" : 4 }
+    { "item" : "plantfibre", "count" : 1 }
   ],
   "output" : {
     "item" : "fu_nitrogen",
-    "count" : 1
+    "count" : 2
   },
   "groups" : [ "chemlab1", "chemical", "all" ]
 }

@@ -2,7 +2,8 @@
   "input" : [
     { "item" : "silk", "count" : 2 },
     { "item" : "iodine", "count" : 1 },
-    { "item" : "fu_liquidhoney", "count" : 3 }
+    { "item" : "fu_liquidhoney", "count" : 3 },
+	{ "item" : "medkit", "count" : 2 }
   ],
   "output" : {
     "item" : "fuhoneysilkbandage",

@@ -2,7 +2,7 @@
   "name" : "honeysilkheal",
     "blockingStat" : "healingStatusImmunity",
   "effectConfig" : {
-    "healAmount" : 140,
+    "healAmount" : 200,
     "emissionRate" : 7
   },
   "defaultDuration" : 2,

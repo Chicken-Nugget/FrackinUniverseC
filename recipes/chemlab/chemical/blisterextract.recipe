@@ -8,5 +8,5 @@
     "item" : "blisterextract",
     "count" : 2
   },
-  "groups" : [ "chemlab2", "chemical", "all" ], "duration":1
+  "groups" : [ "chemlab2", "chemical", "all" ], "duration": 1
 }

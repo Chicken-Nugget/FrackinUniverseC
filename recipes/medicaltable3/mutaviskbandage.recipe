@@ -1,8 +1,9 @@
 {
   "input" : [
-    { "item" : "mutaviskthread", "count" : 3 },
+    { "item" : "mutaviskthread", "count" : 2 },
     { "item" : "iodine", "count" : 1 },
-    { "item" : "geneticmaterial", "count" : 2 }
+    { "item" : "geneticmaterial", "count" : 3 },
+	{ "item" : "nanowrap", "count" : 2 }
   ],
   "output" : {
     "item" : "mutaviskbandage",

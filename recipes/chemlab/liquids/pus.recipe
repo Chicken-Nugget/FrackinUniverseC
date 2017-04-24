@@ -1,13 +1,13 @@
 {
   "input" : [
-    { "item" : "liquidwastewater", "count" : 1 },
+    { "item" : "liquidwastewater", "count" : 3 },
     { "item" : "geneticmaterial", "count" : 1 },
     { "item" : "nutrientpaste", "count" : 1 }
   ],
   "output" : {
     "item" : "liquidpus",
-    "count" : 1
+    "count" : 3
   },
   "groups" : [ "chemlab1", "liquids", "all" ],
-  "duration" : 0.25
+  "duration" : 0.1
 }

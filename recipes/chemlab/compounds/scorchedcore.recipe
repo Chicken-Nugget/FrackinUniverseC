@@ -1,8 +1,8 @@
 {
   "input" : [
-    { "item" : "obsidian", "count" : 2 },
-    { "item" : "fu_oxygen", "count" : 2 },
-    { "item" : "liquidlava", "count" : 2 }
+    { "item" : "obsidian", "count" : 50 },
+    { "item" : "liquidlava", "count" : 50 },
+    { "item" : "mineralsample", "count" : 25 }
   ],
   "output" : {
     "item" : "scorchedcore",

@@ -1,13 +1,13 @@
 {
   "input" : [
-    { "item" : "fu_nitrogen", "count" : 1},
+    { "item" : "fu_nitrogen", "count" : 20 },
     { "item" : "protocitebar", "count" : 1 },
-    { "item" : "dnasample", "count" : 2 }
+    { "item" : "dnasample", "count" : 10 }
   ],
   "output" : {
     "item" : "vialproto",
-    "count" : 3
+    "count" : 25
   },
   "groups" : [ "chemlab2", "liquids", "all" ],
-  "duration" : 0.25
+  "duration" : 0.1
 }

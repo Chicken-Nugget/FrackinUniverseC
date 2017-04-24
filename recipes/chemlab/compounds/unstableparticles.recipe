@@ -1,9 +1,9 @@
 {
   "input" : [
     { "item" : "neptuniumrod", "count" : 2 },
-    { "item" : "magnesiumpowder", "count" : 1 },
+    { "item" : "magnesiumpowder", "count" : 5 },
     { "item" : "helium3gasliquid", "count" : 2 },
-    { "item" : "deuterium", "count" : 2 }
+    { "item" : "deuterium", "count" : 5 }
   ],
   "output" : {
     "item" : "unstableparticles",

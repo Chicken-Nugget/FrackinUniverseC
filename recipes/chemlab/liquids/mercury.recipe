@@ -1,13 +1,13 @@
 {
   "input" : [
-    { "item" : "liquidwastewater", "count" : 1 },
+    { "item" : "liquidwastewater", "count" : 3 },
     { "item" : "ironore", "count" : 1 },
     { "item" : "ff_silicon", "count" : 1 }
   ],
   "output" : {
     "item" : "ff_mercury",
-    "count" : 1
+    "count" : 3
   },
   "groups" : [ "chemlab2", "liquids", "all" ],
-  "duration" : 0.25
+  "duration" : 0.1
 }
