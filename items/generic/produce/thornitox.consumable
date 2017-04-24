@@ -1,17 +1,16 @@
 {
   "itemName" : "thornitox",
   "rarity" : "Common",
-  "price" : 5,
+  "price" : 85,
   "inventoryIcon" : "thornitox.png",
-  "description" : "Effect:
-^cyan;Poisonous. Makes useful weapons.^reset;",
+  "description" : "Effect: ^orange;180s^reset;
+^cyan;Poisonous, Thorns, More Thorns^reset;",
   "shortdescription" : "Thornitox Dongle",
   "category" : "food",
 
-      "effects" : [ [
-      {
-        "effect" : "weakpoison",
-        "duration" : 12
-      }
+  "effects" : [ [
+		{"effect" : "thornsstranglevine", "duration" : 180},
+		{"effect" : "thornsfloran", "duration" : 180},
+		{"effect" : "weakpoison", "duration" : 180}
     ] ]
 }

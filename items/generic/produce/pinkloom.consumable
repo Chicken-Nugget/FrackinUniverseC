@@ -1,14 +1,15 @@
 {
   "itemName" : "pinkloom",
   "rarity" : "uncommon",
-  "price" : 10,
+  "price" : 120,
   "inventoryIcon" : "pinkloom.png",
-  "description" : "Effect:
+  "description" : "Effect: ^orange;180s^reset;
 ^cyan;+30% Rage, +20% Max Energy^reset;",
   "shortdescription" : "Pinkloom Herb",
   "category" : "food",
 
   "effects" : [ [
-    "rage30", "percentenergyboost20"
+		{"effect" : "rage30", "duration" : 180},
+		{"effect" : "percentenergyboost20", "duration" : 180}
     ] ]
 }

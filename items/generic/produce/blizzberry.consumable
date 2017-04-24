@@ -1,14 +1,16 @@
 {
   "itemName" : "blizzberry",
   "rarity" : "Common",
-  "price" : 5,
+  "price" : 40,
   "inventoryIcon" : "blizzberryicon.png",
-    "category" : "food",
-
-  "description" : "Effect:
-^cyan;Deadly Cold Immunity^reset;",
+  "description" : "Effect: ^orange;300s^reset;
+^cyan;Immunity to Deadly Cold and Liquid Nitrogen^reset;",
   "shortdescription" : "Blizzberry",
-  "effects" : [ ["ffextremecoldimmunity", "liquidnitrogenimmunity" ] ],
-  "learnBlueprintsOnPickup" : [ "blizzardcannon" ]
-
+  "category" : "food",
+  
+  "learnBlueprintsOnPickup" : [ "blizzardcannon" ],
+  "effects" : [ [ 
+		{"effect" : "ffextremecoldimmunity", "duration" : 300},
+		{"effect" : "liquidnitrogenimmunity", "duration" : 300}
+	] ]
 }

@@ -1,11 +1,12 @@
 {
   "itemName" : "cellpods",
   "rarity" : "Common",
-  "price" : 5,
+  "price" : 50,
   "inventoryIcon" : "cellpods.png",
-  "description" : "Effect:
+  "description" : "Effect: ^orange;180s^reset;
 ^cyan;Regen 2^reset;",
   "shortdescription" : "Cell Pods",
-   "category" : "food",
-  "effects" : [ ["regeneration2"] ]
+  "category" : "food",
+  
+  "effects" : [ [ {"effect" : "regeneration2", "duration" : 180} ] ]
 }

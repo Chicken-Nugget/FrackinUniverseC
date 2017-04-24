@@ -1,14 +1,15 @@
 {
   "itemName" : "glarestalkeye",
   "rarity" : "Common",
-  "price" : 5,
+  "price" : 150,
   "inventoryIcon" : "glarestalkeye.png",
-  "description" : "Effect:
-^cyan;+50% Damage, Insanity Immunity^reset;",
+  "description" : "Effect: ^orange;180s^reset;
+^cyan;+50% Damage, Immunity to Insanity^reset;",
   "shortdescription" : "Glarestalk Eye",
-   "category" : "food",
+  "category" : "food",
 
   "effects" : [ [
-      "damagebonus6", "insanityimmunity"
+		{"effect" : "damagebonus6", "duration" : 180},
+		{"effect" : "insanityimmunity", "duration" : 180}
     ] ]
 }

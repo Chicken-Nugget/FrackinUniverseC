@@ -1,14 +1,16 @@
 {
   "itemName" : "nisscap",
   "rarity" : "Common",
-  "price" : 5,
+  "price" : 80,
   "inventoryIcon" : "nisscap.png",
-  "description" : "Effect:
-^cyan;Immunity to Mud and Tar effects^reset;",
+  "description" : "Effect: ^orange;300s^reset;
+^cyan;+10% Speed, Immunity to Mud and Tar^reset;",
   "shortdescription" : "Niss Cap",
   "category" : "food",
 
   "effects" : [ [
-      "blacktarimmunity", "fumudslowimmunity"
+		{"effect" : "runboost", "amount" : 0.10, "duration" : 300},
+		{"effect" : "blacktarimmunity", "duration" : 300},
+		{"effect" : "fumudslowimmunity", "duration" : 300}
     ] ]
 }

@@ -1,13 +1,12 @@
 {
   "itemName" : "herrodbushgem",
   "rarity" : "Common",
-  "price" : 5,
+  "price" : 50,
   "inventoryIcon" : "herrodbushgem.png",
-  "description" : "Counteracts dangerous Shadow effects and makes you immune for a while.",
+  "description" : "Effect: ^orange;300s^reset;
+^cyan;Immunity to Shadow^reset;",
   "shortdescription" : "Herrod Bush Gem",
   "category" : "food",
 
-      "effects" : [ [
-          "shadowimmunity"
-    ] ]
+  "effects" : [ [ {"effect" : "shadowimmunity", "duration" : 300} ] ]
 }

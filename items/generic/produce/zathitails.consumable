@@ -1,13 +1,12 @@
 {
   "itemName" : "zathitails",
   "rarity" : "Common",
-  "price" : 5,
+  "price" : 115,
   "inventoryIcon" : "zathitails.png",
-  "description" : "Effect:
+  "description" : "Effect: ^orange;300s^reset;
 ^cyan;+30% Cosmic Resistance^reset;",
   "shortdescription" : "Zathi Node",
   "category" : "food",
-  "effects" : [ 
-    [ "cosmicblock3" ] 
-  ]
+  
+  "effects" : [ [ {"effect" : "cosmicblock3", "duration" : 300} ] ]
 }

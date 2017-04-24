@@ -1,14 +1,12 @@
 {
   "itemName" : "vanusflower",
   "rarity" : "uncommon",
-  "price" : 10,
+  "price" : 65,
   "inventoryIcon" : "vanusflowericon.png",
-  "description" : "Effect:
+  "description" : "Effect: ^orange;360s^reset;
 ^cyan;+3 Defense^reset;",
   "shortdescription" : "Vanus Flower",
   "category" : "food",
 
-      "effects" : [ [
-     "defense2"
-    ] ]
+  "effects" : [ [ {"effect" : "defense2", "duration" : 360} ] ]
 }

@@ -6,11 +6,11 @@
     "mage_shield.lua"
   ],
   "effectConfig" : {
-    "shieldHealth" : 80
+    "shieldHealth" : 100
   },
   
   "animationConfig" : "mage_shield.animation",
   
-  "label" : "D-Shield",
+  "label" : "Wretchel Shield",
   "icon" : "/interface/statuses/wretchelshield.png"
 }

@@ -1,20 +1,19 @@
 {
   "itemName" : "tearnut",
   "rarity" : "Common",
-  "price" : 5,
+  "price" : 60,
   "inventoryIcon" : "tearnut.png",
-  "description" : "Effect:
+  "description" : "Effect: ^orange;2s^reset;
 ^cyan;Heal 10%^reset;",
   "shortdescription" : "Tearnut",
   "category" : "food",
   "eventCategory" : "eventCrop",
-  "foodValue" : 20,
+  "foodValue" : 5,
   "tooltipKind" : "food",
   "builder" : "/items/buildscripts/buildfood.lua",
   "maxStack" : 1000,
   "itemAgingScripts" : ["/scripts/items/rotting.lua"],
   "rottingMultiplier" : 20.0,
-  "effects" : [ [
-      "heal_10"
-    ] ]
+  
+  "effects" : [ [ "heal_10" ] ]
 }

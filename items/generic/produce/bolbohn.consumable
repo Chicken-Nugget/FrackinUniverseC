@@ -5,15 +5,13 @@
   "category" : "food",
   "eventCategory" : "eventCrop",
   "inventoryIcon" : "bolbohn.png",
-  "description" : "Effect:
+  "description" : "Effect: ^orange;180s^reset;
 ^cyan;+10% Crit Chance^reset;",
   "shortdescription" : "Bolbohn",
-  "foodValue" : 3,
+  "foodValue" : 5,
   "tooltipKind" : "food",
 
-  "blockingEffects" : [
-    "wellfed"
-  ],
-  "effects" : [ [ "critchance1" ] ],
-  "learnBlueprintsOnPickup" : [ "avikanmeal", "bolbohnjam", "spicebol" ]
+  "learnBlueprintsOnPickup" : [ "avikanmeal", "bolbohnjam", "spicebol" ],
+  "effects" : [ [ {"effect" : "critchance1", "duration" : 180} ] ],
+  "blockingEffects" : [ "wellfed" ]
 }

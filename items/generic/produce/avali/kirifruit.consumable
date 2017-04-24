@@ -1,15 +1,13 @@
 {
   "itemName" : "kirifruit",
-  "price" : 5,
   "rarity" : "Common",
+  "price" : 95,
   "inventoryIcon" : "avaliproduce1.png",
-  "description" : "The fruiting body of a subterranean slime mold.
-^cyan;Heals in Darkness^reset;.",
+  "description" : "Effect: ^orange;300s^reset;
+^cyan;Darkness Regeneration^reset;.",
   "shortdescription" : "Kiri Fruit",
   "handPosition" : [3, 0],
   "category" : "food",
 
-      "effects" : [ [
-    "darkregenproduce"
-  ] ]
+  "effects" : [ [ {"effect" : "darkregenproduce", "duration" : 300} ] ]
 }

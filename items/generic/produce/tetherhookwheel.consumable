@@ -1,14 +1,15 @@
 {
   "itemName" : "tetherhookwheel",
   "rarity" : "rare",
-  "price" : 20,
+  "price" : 130,
   "inventoryIcon" : "tetherhookwheel.png",
-  "description" : "Effect:
-^cyan;Emergency Warp - When near death, teleport^reset;", 
+  "description" : "Effect: ^orange;180s^reset;
+^cyan;+50% Energy Regen, +50 Max Energy^reset;", 
   "shortdescription" : "Tetherhook Wheel",
   "category" : "food",
 
-      "effects" : [ [
-      "warp"
-    ] ]
+  "effects" : [ [
+		{"effect" : "energyregenfu50", "duration" : 180},
+		{"effect" : "maxenergyboost6", "duration" : 180},
+	] ]
 }

@@ -1,14 +1,12 @@
 {
   "itemName" : "shinyacorn",
   "rarity" : "Common",
-  "price" : 5,
+  "price" : 95,
   "inventoryIcon" : "shinyacornicon.png",
-  "description" : "Effect:
+  "description" : "Effect: ^orange;180s^reset;
 ^cyan;+21 Max Health^reset;",
   "shortdescription" : "Helkat Nut",
   "category" : "food",
 
-  "effects" : [ [
-    "maxhealthboost5"
-    ] ]
+  "effects" : [ [ {"effect" : "maxhealthboost5", "duration" : 180} ] ]
 }

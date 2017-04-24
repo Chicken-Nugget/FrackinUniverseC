@@ -1,14 +1,12 @@
 {
   "itemName" : "talonseed",
   "rarity" : "Common",
-  "price" : 5,
+  "price" : 50,
   "inventoryIcon" : "talonseed.png",
-  "description" : "Effect:
-^cyan;+20% Ice Resistance^reset;",
+  "description" : "Effect: ^orange;300s^reset;
+^cyan;+30% Ice Resistance^reset;",
   "shortdescription" : "Talon Sprout",
   "category" : "food",
 
-  "effects" : [ [
-        "iceblock2"
-    ] ]
+  "effects" : [ [ {"effect" : "iceblock3", "duration" : 300} ] ]
 }

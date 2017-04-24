@@ -1,23 +1,16 @@
 {
   "itemName" : "wretchel",
   "rarity" : "Common",
-  "price" : 5,
+  "price" : 175,
   "inventoryIcon" : "wretchel.png",
-  "description" : "Effect:
-^cyan;Barrier^reset;",
+  "description" : "Effect: ^orange;18s/180s^reset;
+^cyan;Poisonous, Barrier (100)^reset;",
   "shortdescription" : "Wretchel Fruit",
-  
-  "learnBlueprintsOnPickup" : [ 
-  "batterypack_morphite", 
-  "wretchelchest", 
-  "wretchelhead", 
-  "wretchelpants", 
-  "wretchelpoultice" 
-  ],
-  
   "category" : "food",
-
-      "effects" : [ [
-      "wretchelshield", "weakpoison"
+  
+  "learnBlueprintsOnPickup" : [ "batterypack_morphite", "wretchelchest", "wretchelhead", "wretchelpants", "wretchelpoultice" ],
+  "effects" : [ [
+		{"effect" : "wretchelshield", "duration" : 180},
+		{"effect" : "weakpoison", "duration" : 18}
     ] ]
 }

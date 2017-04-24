@@ -1,14 +1,12 @@
 {
   "itemName" : "haleflowerpetal",
   "rarity" : "Common",
-  "price" : 5,
+  "price" : 105,
   "inventoryIcon" : "haleflowerpetal.png",
-  "description" : "Effect:
+  "description" : "Effect: ^orange;180s^reset;
 ^cyan;+60% Energy Regen^reset;",
   "shortdescription" : "Hale Flower Petal",
   "category" : "food",
 
-  "effects" : [ [
-        "energyregenfu60"
-    ] ]
+  "effects" : [ [ {"effect" : "energyregenfu60", "duration" : 180} ] ]
 }

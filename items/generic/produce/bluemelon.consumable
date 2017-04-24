@@ -1,13 +1,15 @@
 {
   "itemName" : "bluemelon",
   "rarity" : "Common",
-  "price" : 5,
+  "price" : 60,
   "inventoryIcon" : "bluemelon.png",
-  "description" : "Effect:
-^cyan;Walk on Water, Ice Resistance^reset;",
+  "description" : "Effect: ^orange;180s^reset;
+^cyan;Walk on Water, +10% Ice Resistance^reset;",
   "shortdescription" : "Blue Melon",
   "category" : "food",
 
-  "effects" : [ [ "waterwalk","iceblock" ] ]
-
+  "effects" : [ [ 
+		{"effect" : "waterwalk", "duration" : 180},
+		{"effect" : "iceblock", "duration" : 180}
+	] ]
 }

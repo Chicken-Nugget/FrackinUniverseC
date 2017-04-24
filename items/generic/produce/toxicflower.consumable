@@ -1,17 +1,15 @@
 {
   "itemName" : "toxicflower",
   "rarity" : "common",
-  "price" : 5,
+  "price" : 75,
   "inventoryIcon" : "toxicflowericon.png",
-  "description" : "Effect:
-^cyan;Poisonous^reset;",
+  "description" : "Effect: ^orange;18s/180s^reset;
+^cyan;Poisonous, Toxic Cloud^reset;",
   "shortdescription" : "Toxic Flower",
   "category" : "food",
 
-      "effects" : [ [
-      {
-        "effect" : "weakpoison",
-        "duration" : 12
-      }
+  "effects" : [ [
+		{"effect" : "burstfayshroom", "duration" : 180},
+		{"effect" : "weakpoison", "duration" : 18}
     ] ]
 }

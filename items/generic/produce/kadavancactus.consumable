@@ -7,8 +7,9 @@
   "inventoryIcon" : "kadavancactus.png",
   "description" : "A refreshing, but somewhat tasteless, cactus.",
   "shortdescription" : "Sliced Kadavan Cactus",
-  "foodValue" : 8.5,
+  "foodValue" : 8,
   "tooltipKind" : "food",
-  "blockingEffects" : [ "wellfed" ],
-  "learnBlueprintsOnPickup" : [ "avikanmeal", "kadavancactusjuice" ]
+  
+  "learnBlueprintsOnPickup" : [ "avikanmeal", "kadavancactusjuice" ],
+  "blockingEffects" : [ "wellfed" ]
 }

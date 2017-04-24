@@ -1,14 +1,12 @@
 {
   "itemName" : "mint",
   "rarity" : "uncommon",
-  "price" : 10,
+  "price" : 35,
   "inventoryIcon" : "mint.png",
-  "description" : "Effect:
+  "description" : "Effect: ^orange;300s^reset;
 ^cyan;+10% Energy Regen^reset;",
   "shortdescription" : "Star Mint",
   "category" : "food",
 
-  "effects" : [ [
-     "energyregenfu10"
-    ] ]
+  "effects" : [ [ {"effect" : "energyregenfu10", "duration" : 300} ] ]
 }

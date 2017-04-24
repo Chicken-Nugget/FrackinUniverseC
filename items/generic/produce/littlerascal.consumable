@@ -1,14 +1,15 @@
 {
   "itemName" : "littlerascal",
   "rarity" : "uncommon",
-  "price" : 10,
+  "price" : 85,
   "inventoryIcon" : "littlerascal.png",
-  "description" : "Effect:
+  "description" : "Effect: ^orange;180s^reset;
 ^cyan;+12 Max Health, +20 Max Energy^reset;",
   "shortdescription" : "Little Rascal Herb",
   "category" : "food",
 
   "effects" : [ [
-      "maxhealthboost3", "maxenergyboost3"
+		{"effect" : "maxhealthboost3", "duration" : 180},
+		{"effect" : "maxenergyboost3", "duration" : 180}
     ] ]  
 }

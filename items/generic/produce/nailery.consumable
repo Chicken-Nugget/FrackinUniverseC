@@ -3,10 +3,9 @@
   "rarity" : "Common",
   "price" : 5,
   "inventoryIcon" : "naileryicon.png",
-  "description" : "Effect:
-^cyan;Craft into bombs^reset;",
+  "description" : "Craft into bombs",
+  "shortdescription" : "Nailery",
   "category" : "food",
 
-  "shortdescription" : "Nailery",
   "learnBlueprintsOnPickup" : [ "nailbomb" ]
 }

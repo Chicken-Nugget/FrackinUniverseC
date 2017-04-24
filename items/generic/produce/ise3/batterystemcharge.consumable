@@ -1,11 +1,15 @@
 {
   "itemName" : "batterystemcharge",
   "rarity" : "Common",
-  "price" : 5,
+  "price" : 85,
   "inventoryIcon" : "batterystemcharge.png",
-  "description" : "Effect:
+  "description" : "Effect: ^orange;180s^reset;
 ^cyan;+40 Max Energy, +5% Energy Regen^reset;",
   "shortdescription" : "Battery Stem Charge",
   "category" : "food",
-  "effects" : [ [ "maxenergyboost5", "energyregenfu05" ] ]
+  
+  "effects" : [ [ 
+		{"effect" : "maxenergyboost5", "duration" : 180},
+		{"effect" : "energyregenfu05", "duration" : 180}
+	] ]
 }

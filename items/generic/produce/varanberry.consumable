@@ -1,14 +1,12 @@
 {
   "itemName" : "varanberry",
   "rarity" : "Common",
-  "price" : 5,
+  "price" : 75,
   "inventoryIcon" : "varanberry.png",
-  "description" : "Effect:
+  "description" : "Effect: ^orange;4s^reset;
 ^cyan;Heal 20%^reset;",
   "shortdescription" : "Varan Berries",
   "category" : "food",
 
-      "effects" : [ [
-      "heal_20"
-    ] ]
+  "effects" : [ [ "heal_20" ] ]
 }

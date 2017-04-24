@@ -1,22 +1,16 @@
 {
   "itemName" : "pirufrond",
-  "price" : 5,
   "rarity" : "Common",
+  "price" : 55,
   "inventoryIcon" : "avaliproduce3.png",
-  "description" : "Effect:
+  "description" : "Effect: ^orange;180s^reset;
 ^cyan;Swim Boost, +15% Speed^reset;",
   "shortdescription" : "Piru Frond",
   "handPosition" : [7, 0],
   "category" : "food",
 
-      "effects" : [ [
-    {
-        "effect" : "swimboost",
-        "duration" : 125
-    },
-    {
-        "effect" : "runboost15",
-        "duration" : 125
-    }
-  ] ]
+  "effects" : [ [
+		{"effect" : "swimboost", "duration" : 180},
+		{"effect" : "runboost15", "duration" : 180}
+	] ]
 }

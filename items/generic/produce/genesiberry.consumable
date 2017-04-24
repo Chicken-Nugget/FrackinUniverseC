@@ -1,14 +1,12 @@
 {
   "itemName" : "genesiberry",
   "rarity" : "Common",
-  "price" : 5,
+  "price" : 115,
   "inventoryIcon" : "genesiberry.png",
-  "description" : "Effect:
-^cyan;Heal 90%^reset;",
+  "description" : "Effect: ^orange;14s^reset;
+^cyan;Heal 70%^reset;",
   "shortdescription" : "Genesiberry",
-   "category" : "food",
+  "category" : "food",
 
-  "effects" : [ [
-      "heal_90"
-    ] ]
+  "effects" : [ [ "heal_70" ] ]
 }

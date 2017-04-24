@@ -1,17 +1,13 @@
 {
   "itemName" : "floralytcandy",
   "rarity" : "Common",
-  "price" : 5,
+  "price" : 135,
   "inventoryIcon" : "floralytcandy.png",
-  "description" : "Effect:
-^cyan;Heal 90%^reset;",
+  "description" : "Effect: ^orange;20s^reset;
+^cyan;Heal 100%^reset;",
+  "shortdescription" : "Floralyt Candy",
   "category" : "food",
 
-  "shortdescription" : "Floralyt Candy",
-  "effects" : [ [
-       "heal_90"
-    ] ],
-  "blockingEffects" : [
-    "heal_90"
-  ]
+  "effects" : [ [ "heal_100" ] ],
+  "blockingEffects" : [ "heal_100" ]
 }

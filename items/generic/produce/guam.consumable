@@ -1,17 +1,13 @@
 {
   "itemName" : "guam",
   "rarity" : "uncommon",
-  "price" : 10,
+  "price" : 75,
   "inventoryIcon" : "guam.png",
-  "description" : "Effect:
-^cyan;Deadly Radiation Immunity^reset;",
+  "description" : "Effect: ^orange;300s^reset;
+^cyan;Immunity to Deadly Radiation^reset;",
   "shortdescription" : "Rad-Leaf",
   "category" : "food",
 
-  "effects" : [ [
-   "ffextremeradiationimmunity"
-    ] ],
-  "blockingEffects" : [
-    "ffextremeradiationimmunity"
-  ]
+  "effects" : [ [ {"effect" : "ffextremeradiationimmunity", "duration" : 300} ] ],
+  "blockingEffects" : [ "ffextremeradiationimmunity" ]
 }

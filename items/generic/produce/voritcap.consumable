@@ -1,15 +1,15 @@
 {
   "itemName" : "voritcap",
   "rarity" : "Common",
-  "price" : 5,
+  "price" : 105,
   "inventoryIcon" : "voritcap.png",
-  "description" : "Effect:
+  "description" : "Effect: ^orange;180s^reset;
 ^cyan;Swim Boost 3, Oxygen^reset;",
   "shortdescription" : "Vorit Cap",
   "category" : "food",
 
-      "effects" : [ [
-      "airimmunity",      
-      "swimboost3"
+  "effects" : [ [
+		{"effect" : "airimmunity", "duration" : 180},
+		{"effect" : "swimboost3", "duration" : 180}
     ] ]
 }

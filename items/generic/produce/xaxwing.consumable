@@ -1,18 +1,15 @@
 {
   "itemName" : "xaxwing",
   "rarity" : "Common",
-  "price" : 5,
+  "price" : 100,
   "inventoryIcon" : "xaxwing.png",
-  "description" : "Effect:
-^cyan;Levitation^reset;",
+  "description" : "Effect: ^orange;120s^reset;
+^cyan;Levitation, He3 Immunity^reset;",
   "shortdescription" : "Xax Wing",
   "category" : "food",
 
-      "effects" : [ [
-      {
-        "effect" : "levitation",
-        "duration" : 60
-      },
-      "helium3Immunity"
+  "effects" : [ [
+		{"effect" : "levitation", "duration" : 120},
+		{"effect" : "helium3Immunity", "duration" : 120}
     ] ]
 }

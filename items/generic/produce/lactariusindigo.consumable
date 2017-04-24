@@ -1,14 +1,12 @@
 {
   "itemName" : "lactariusindigo",
   "rarity" : "uncommon",
-  "price" : 10,
+  "price" : 65,
   "inventoryIcon" : "lactariusindigo.png",
-  "description" : "Effect:
-^cyan;Shadow Resistance, Shadow Taint Immunity^reset;",
+  "description" : "Effect: ^orange;300s^reset;
+^cyan;+10% Shadow Resistance, Shadow Taint Immunity^reset;",
   "shortdescription" : "Lactarius Indigo Mushroom",
   "category" : "food",
 
-  "effects" : [ [
-      "shadowblock"
-    ] ]
+  "effects" : [ [ {"effect" : "shadowblock", "duration" : 300} ] ]
 }

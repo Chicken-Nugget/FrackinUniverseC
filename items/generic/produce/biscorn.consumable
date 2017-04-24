@@ -1,11 +1,15 @@
 {
   "itemName" : "biscorn",
   "rarity" : "Common",
-  "price" : 5,
+  "price" : 25,
   "inventoryIcon" : "biscornicon.png",
-  "description" : "Effect:
+  "description" : "Effect: ^orange;180s^reset;
 ^cyan;+5 Max Health, +6 Max Energy^reset;",
   "shortdescription" : "Biscorn",
   "category" : "food",
-  "effects" : [ [ "maxhealthboost1", "maxenergyboost1" ] ]
+  
+  "effects" : [ [ 
+		{"effect" : "maxhealthboost1", "duration" : 180},
+		{"effect" : "maxenergyboost1", "duration" : 180}
+	] ]
 }

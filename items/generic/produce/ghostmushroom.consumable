@@ -1,15 +1,15 @@
 {
   "itemName" : "ghostmushroom",
   "rarity" : "uncommon",
-  "price" : 20,
+  "price" : 75,
   "inventoryIcon" : "ghostmushroom.png",
-  "description" : "Effect:
-^cyan;Invisible (60s), and Invisible to Erchius Horrors (300s)^reset;",
+  "description" : "Effect: ^orange;60s/300s^reset;
+^cyan;Invisible, Invisible to Erchius Horrors^reset;",
   "shortdescription" : "Ghost Mushroom",
   "category" : "food",
 
   "effects" : [ [ 
-    { "effect" : "camouflage55", "duration" : 60},
-    "erchiusimmunity"
+		{"effect" : "camouflage55", "duration" : 60},
+		{"effect" : "erchiusimmunity", "duration" : 300}
     ] ]
 }

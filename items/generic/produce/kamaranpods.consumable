@@ -1,14 +1,16 @@
 {
   "itemName" : "kamaranpods",
   "rarity" : "Common",
-  "price" : 5,
+  "price" : 75,
   "inventoryIcon" : "kamaranpods.png",
-  "description" : "Effect:
-^cyan;Immune to Ice, Tar and Mud effects^reset;",
+  "description" : "Effect: ^orange;300s^reset;
+^cyan;Immunity to Ice, Tar and Mud^reset;",
   "shortdescription" : "Kamaran Pod",
   "category" : "food",
 
   "effects" : [ [
-      "blacktarimmunity", "fumudslowimmunity", "iceslipimmunity"
+		{"effect" : "blacktarimmunity", "duration" : 300},
+		{"effect" : "fumudslowimmunity", "duration" : 300},
+		{"effect" : "iceslipimmunity", "duration" : 300}
     ] ]
 }

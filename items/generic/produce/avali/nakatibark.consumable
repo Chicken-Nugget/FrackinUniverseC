@@ -1,18 +1,15 @@
 {
   "itemName" : "nakatibark",
-  "price" : 5,
   "rarity" : "Common",
+  "price" : 75,
   "inventoryIcon" : "avaliproduce2.png",
-  "description" : "Effect:
-^cyan;+7 Defense, Proto-Poison Immunity^reset;",
+  "description" : "Effect: ^orange;180s^reset;
+^cyan;+7 Defense, Immunity to Proto-Poison^reset;",
   "shortdescription" : "Nakati Bark",
   "category" : "food",
 
-      "effects" : [ [
-    "protoimmunity",
-    {
-        "effect" : "defense5",
-        "duration" : 125
-    }
+  "effects" : [ [
+		{"effect" : "protoimmunity", "duration" : 180},
+		{"effect" : "defense5", "duration" : 180}
   ] ]
 }

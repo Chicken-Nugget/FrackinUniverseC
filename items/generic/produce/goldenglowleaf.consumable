@@ -1,18 +1,12 @@
 {
   "itemName" : "goldenglowleaf",
   "rarity" : "Common",
-  "price" : 5,
+  "price" : 60,
   "inventoryIcon" : "goldenglowleaf.png",
-  "description" : "Effect:
+  "description" : "Effect: ^orange;120s^reset;
 ^cyan;+50% Speed^reset;",
   "shortdescription" : "Goldenglow Petal",
   "category" : "food",
 
-  "effects" : [ [
-      {
-        "effect" : "runboost",
-        "amount" : 0.50,
-        "duration" : 120
-      }
-    ] ]
+  "effects" : [ [ {"effect" : "runboost", "amount" : 0.50, "duration" : 120} ] ]
 }

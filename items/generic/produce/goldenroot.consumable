@@ -1,14 +1,20 @@
 {
   "itemName" : "goldenroot",
   "rarity" : "Common",
-  "price" : 5,
+  "price" : 80,
   "inventoryIcon" : "goldenrooticon.png",
-  "description" : "Effect:
-^cyan;+8 Max Health^reset;",
+  "description" : "Effect: ^orange;180s^reset;
+^cyan;+10% Electric, Fire, Ice, Poison, Radiation, Shadow, and Cosmic Resistance^reset;",
   "shortdescription" : "Golden Root",
-   "category" : "food",
+  "category" : "food",
 
   "effects" : [ [
-    "maxhealthboost2"
-    ] ]
+		{"effect" : "electricblock1", "duration" : 180},
+		{"effect" : "fireblock1", "duration" : 180},
+		{"effect" : "iceblock1", "duration" : 180},
+		{"effect" : "poisonblock1", "duration" : 180},
+		{"effect" : "radioactiveblock", "duration" : 180},
+		{"effect" : "shadowblock", "duration" : 180},
+		{"effect" : "cosmicblock", "duration" : 180}
+	] ]
 }

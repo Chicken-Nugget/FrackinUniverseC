@@ -1,14 +1,15 @@
 {
   "itemName" : "ginseng",
   "rarity" : "uncommon",
-  "price" : 10,
+  "price" : 60,
   "inventoryIcon" : "ginseng.png",
-  "description" : "Effect:
+  "description" : "Effect: ^orange;180s^reset;
 ^cyan;+8 Max Health, +12 Max Energy^reset;",
   "shortdescription" : "Heartroot",
-   "category" : "food",
+  "category" : "food",
 
   "effects" : [ [
-      "maxenergyboost2", "maxhealthboost2"
+		{"effect" : "maxenergyboost2", "duration" : 180},
+		{"effect" : "maxhealthboost2", "duration" : 180}
     ] ]
 }

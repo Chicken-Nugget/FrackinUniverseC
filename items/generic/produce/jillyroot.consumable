@@ -1,14 +1,12 @@
 {
   "itemName" : "jillyroot",
   "rarity" : "uncommon",
-  "price" : 10,
+  "price" : 45,
   "inventoryIcon" : "jillyroot.png",
-  "description" : "Effect:
+  "description" : "Effect: ^orange;2s^reset;
 ^cyan;Heal 10%^reset;",
   "shortdescription" : "Jilly Root",
-   "category" : "food",
+  "category" : "food",
 
-  "effects" : [ [
-        "heal_10"
-    ] ]
+  "effects" : [ [ "heal_10" ] ]
 }

@@ -1,11 +1,12 @@
 {
   "itemName" : "bloodroot",
   "rarity" : "uncommon",
-  "price" : 10,
-    "category" : "food",
+  "price" : 35,
   "inventoryIcon" : "bloodroot.png",
-  "description" : "Effect:
+  "description" : "Effect: ^orange;180s^reset;
 ^cyan;+10% Physical Resistance^reset;",
   "shortdescription" : "Blood Root",
-  "effects" : [ ["physicalblock"] ]
+  "category" : "food",
+  
+  "effects" : [ [ {"effect" : "physicalblock", "duration" : 180} ] ]
 }

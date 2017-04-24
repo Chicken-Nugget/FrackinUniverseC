@@ -3,7 +3,7 @@
     "colonyTags" : [ "nature" ],
   "rarity" : "common",
   "category" : "seed",
-  "description" : "Flecks of gold adorn this health-restoring vine.",
+  "description" : "Flecks of gold adorn this element resisting vine.",
   "shortdescription" : "Golden Root Seed",
   "objectType" : "farmable",
   "printable" : false,

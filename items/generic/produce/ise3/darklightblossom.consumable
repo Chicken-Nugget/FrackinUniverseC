@@ -1,11 +1,12 @@
 {
   "itemName" : "darklightblossom",
   "rarity" : "Common",
-  "price" : 5,
+  "price" : 75,
   "inventoryIcon" : "darklightblossom.png",
-  "description" : "It's said that this flower can ^cyan;cure insanity^reset;.",
+  "description" : "Effect: ^orange;300s^reset;
+^cyan;Immunity to Insanity^reset;",
   "shortdescription" : "Darklight Blossom",
   "category" : "food",
 
-  "effects" : [ ["insanityimmunity"] ]
+  "effects" : [ [ {"effect" : "insanityimmunity", "duration" : 300} ] ]
 }

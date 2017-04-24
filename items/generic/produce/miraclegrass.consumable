@@ -1,21 +1,14 @@
 {
   "itemName" : "miraclegrass",
   "rarity" : "Common",
-  "price" : 5,
+  "price" : 35,
   "inventoryIcon" : "miraclegrass.png",
-  "description" : "Effect:
-^cyan;Long-Term Weak Regeneration^reset;",
+  "description" : "Effect: ^orange;300s^reset;
+^cyan;Regeneration (Weak)^reset;",
   "shortdescription" : "Miracle Grass Clipping",
   "category" : "food",
-
+  
   "learnBlueprintsOnPickup" : [ "healingliquidgun", "furegenaugment1" ],
-  "effects" : [ [
-      {
-        "effect" : "regenerationmiraclegrass",
-        "duration" : 220
-      }
-    ] ],
-  "blockingEffects" : [
-    "regenerationmiraclegrass"
-  ]
+  "effects" : [ [ { "effect" : "regenerationmiraclegrass", "duration" : 300 } ] ],
+  "blockingEffects" : [ "regenerationmiraclegrass" ]
 }

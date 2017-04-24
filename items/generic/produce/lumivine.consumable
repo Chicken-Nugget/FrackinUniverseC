@@ -3,13 +3,11 @@
   "rarity" : "rare",
   "price" : 100,
   "inventoryIcon" : "lumivine.png",
-  "description" : "Effect:
-^cyan;Pressure Immunity^reset;",
+  "description" : "Effect: ^orange;300s^reset;
+^cyan;Immunity to Pressure^reset;",
   "shortdescription" : "Lumivine",
   "category" : "food",
 
-  "effects" : [ [
-      "pressureimmunity"
-    ] ],
-  "learnBlueprintsOnPickup" : [ "lumivineseed" ]
+  "learnBlueprintsOnPickup" : [ "lumivineseed" ],
+  "effects" : [ [ {"effect" : "pressureimmunity", "duration" : 300} ] ]
 }

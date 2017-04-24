@@ -1,12 +1,13 @@
 {
   "itemName" : "capriole",
   "rarity" : "Common",
-  "price" : 5,
+  "price" : 45,
   "inventoryIcon" : "capriole.png",
-  "description" : "Effect:
+  "description" : "Effect: ^orange;180s^reset;
 ^cyan;+25% Jump^reset;",
   "shortdescription" : "Capriole Flower",
   "category" : "food",
-  "effects" : [ [ {"effect" : "jumpboost","amount" : 0.25,"duration" : 120} ] ],
+  
+  "effects" : [ [ {"effect" : "jumpboost", "amount" : 0.25, "duration" : 180} ] ],
   "blockingEffects" : [ "jumpboost" ]
 }

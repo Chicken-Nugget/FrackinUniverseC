@@ -1,13 +1,13 @@
 {
   "itemName" : "blisterbushplantfood",
   "rarity" : "Common",
-  "price" : 5,
+  "price" : 30,
   "inventoryIcon" : "blisterbushplantfood.png",
-  "description" : "Effect:
+  "description" : "Effect: ^orange;300s^reset;
 ^cyan;Glow^reset;",
   "shortdescription" : "Blister Sack",
-    "category" : "food",
-
-  "effects" : [ [ { "effect" : "glowpurple", "amount" : "1.7", "duration" : 300 } ] ],
-  "learnBlueprintsOnPickup" : [ "blisterextract" ]
+  "category" : "food",
+  
+  "learnBlueprintsOnPickup" : [ "blisterextract" ],
+  "effects" : [ [ {"effect" : "glowpurple", "amount" : "3", "duration" : 300} ] ]
 }

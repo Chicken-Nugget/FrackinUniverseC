@@ -1,14 +1,17 @@
 {
   "itemName" : "quellstembud",
   "rarity" : "Common",
-  "price" : 5,
+  "price" : 110,
   "inventoryIcon" : "quellstembud.png",
-  "description" : "Effect:
-^cyan;Immunity to Heat, Lava, and Fire^reset;",
+  "description" : "Effect: ^orange;180s^reset;
+^cyan;+10% Fire Resistance, Immunity to Deadly Heat, Lava, and Fire^reset;",
   "shortdescription" : "Quellstem Bud",
   "category" : "food",
 
-      "effects" : [ [
-      "fireStatusImmunity","lavaimmunity","ffextremeheatimmunity","fireblock"
+  "effects" : [ [
+		{"effect" : "fireStatusImmunity", "duration" : 180},
+		{"effect" : "lavaimmunity", "duration" : 180},
+		{"effect" : "ffextremeheatimmunity", "duration" : 180},
+		{"effect" : "fireblock", "duration" : 180}
     ] ]
 }
