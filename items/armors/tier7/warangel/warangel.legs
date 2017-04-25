@@ -7,7 +7,7 @@
    "description" : "Set Bonus:
 ^cyan;+35% Physical Resist^reset;
 ^#e43774;100% Fall Reduction and Knockback Resistance^reset;
-^green;Immunity: Pressure, Cold, Heat, Radiation, ^reset;",
+^green;Immunity: Pressure, Cold, Heat, Radiation^reset;",
   "shortdescription" : "War Angel Greaves",
   "category" : "legarmour",
   "tooltipKind" : "armornew2",

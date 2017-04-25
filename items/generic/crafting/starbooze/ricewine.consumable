@@ -1,19 +1,13 @@
 {
   "itemName" : "ricewine",
   "rarity" : "Common",
-  "category" : "drink",
+  "price" : 25,
   "inventoryIcon" : "ricewine.png",
   "description" : "Effect: ^orange;180s^reset;
 ^cyan;+10% Speed, +10% Jump^reset;",
   "shortdescription" : "Rice Wine",
+  "category" : "drink",
   "eventCategory" : "eventCrop",
-  "foodValue" : 1,
-  "price" : 25,
-  "tooltipKind" : "food",
-  "builder" : "/items/buildscripts/buildfood.lua",
-  "maxStack" : 100,
-  "itemAgingScripts" : ["/scripts/items/rotting.lua"],
-  "rottingMultiplier" : 3.0,
   
   "effects" : [ [
 		{"effect" : "runboost", "amount" : 0.10, "duration" : 180},

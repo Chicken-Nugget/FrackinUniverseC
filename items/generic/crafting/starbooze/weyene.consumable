@@ -1,19 +1,13 @@
 {
   "itemName" : "weyene",
   "rarity" : "Common",
-  "category" : "drink",
+  "price" : 25,
   "inventoryIcon" : "weyene.png",
   "description" : "Effect: ^orange;180s^reset;
 ^cyan;+25% Speed, +25% Jump, Water Walk^reset;",
   "shortdescription" : "Wine",
+  "category" : "drink",
   "eventCategory" : "eventCrop",
-  "foodValue" : 1,
-  "price" : 25,
-  "tooltipKind" : "food",
-  "builder" : "/items/buildscripts/buildfood.lua",
-  "maxStack" : 100,
-  "itemAgingScripts" : ["/scripts/items/rotting.lua"],
-  "rottingMultiplier" : 3.0,
   
   "effects" : [ [
 		{"effect" : "runboost", "amount" : 0.25, "duration" : 180},

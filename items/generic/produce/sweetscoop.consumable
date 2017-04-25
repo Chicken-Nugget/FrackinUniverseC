@@ -7,12 +7,6 @@
 ^cyan;+20% Max Energy^reset;",
   "shortdescription" : "Sweetscoop",
   "category" : "food",
-  "tooltipKind" : "food",
-  "builder" : "/items/buildscripts/buildfood.lua",
-  "maxStack" : 1000,
-  "itemAgingScripts" : ["/scripts/items/rotting.lua"],
-  "foodValue" : 5,
-  "rottingMultiplier" : 3.0,
   
   "effects" : [ [ {"effect" : "maxenergyscalingboostfood", "duration" : 300} ] ]
 }

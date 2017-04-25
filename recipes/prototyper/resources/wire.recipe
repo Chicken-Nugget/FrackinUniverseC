@@ -4,7 +4,7 @@
   ],
   "output" : {
     "item" : "wire",
-    "count" : 9
+    "count" : 5
   },
   "groups" : [ "prototyper1", "chemical", "all" ],
   "duration" : 0.25

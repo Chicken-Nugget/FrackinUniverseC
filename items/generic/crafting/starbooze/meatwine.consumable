@@ -1,19 +1,13 @@
 {
   "itemName" : "meatwine",
   "rarity" : "Common",
+  "price" : 25,
   "inventoryIcon" : "meatwine.png",
   "description" : "Effect: ^orange;180s^reset;
 ^cyan;+20% Speed, +20% Jump^reset;",
   "shortdescription" : "Meat Wine",
   "category" : "drink",
-  "price" : 25,
   "eventCategory" : "eventCrop",
-  "foodValue" : 1,
-  "tooltipKind" : "food",
-  "builder" : "/items/buildscripts/buildfood.lua",
-  "maxStack" : 100,
-  "itemAgingScripts" : ["/scripts/items/rotting.lua"],
-  "rottingMultiplier" : 3.0,
   
   "effects" : [ [
 		{"effect" : "runboost", "amount" : 0.20, "duration" : 180},

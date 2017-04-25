@@ -96,8 +96,8 @@
   "lightlessrareOutputs" : [ "tritium", "aliencompound", "triangliumore" ],
   
   "metallicOutputs" : [ "steelsand", "bolt", "wire" ],
-  "metallicuncommonOutputs" : [ "ironore", "liquidironfu", "magnesiumpowder", "mineralsample", "metallic", "ff_spareparts" ],
-  "metallicrareOutputs" : [ "titaniumore", "durasteelore", "tritium", "stickofram", "cpu", "processor", "aichip", "tungstenore" ],
+  "metallicuncommonOutputs" : [ "ironore", "liquidironfu", "magnesiumpowder", "mineralsample", "metallic" ],
+  "metallicrareOutputs" : [ "titaniumore", "durasteelore", "tritium", "stickofram", "cpu", "processor", "aichip", "tungstenore", "ff_spareparts" ],
   
   "protoOutputs" : [ "fu_oxygen", "fu_hydrogen" ],
   "protouncommonOutputs" : [ "cellmateria", "fu_salt", "biospore", "mineralsample", "dnasample", "fu_nitrogen", "fu_carbon" ],
