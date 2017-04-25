@@ -5,7 +5,7 @@
 
   "scripts" : [
     "healthrestorepercentage.lua"
-  ]
+  ],
   "label" : "Healing",
   "icon" : "/interface/statuses/heal.png"  
 }

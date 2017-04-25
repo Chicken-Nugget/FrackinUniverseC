@@ -10,6 +10,6 @@
 
   "effects" : [ [
 		{"effect" : "energyregenfu50", "duration" : 180},
-		{"effect" : "maxenergyboost6", "duration" : 180},
+		{"effect" : "maxenergyboost6", "duration" : 180}
 	] ]
 }

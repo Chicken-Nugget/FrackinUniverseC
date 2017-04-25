@@ -1,11 +1,11 @@
 {
-  "name" : "heal_1",
+  "name" : "heal_100",
   "effectConfig" : { "healPercent" : 1 },
   "defaultDuration" : 20,
 
   "scripts" : [
     "healthrestorepercentage.lua"
-  ]
+  ],
   "label" : "Healing",
   "icon" : "/interface/statuses/heal.png"  
 }
