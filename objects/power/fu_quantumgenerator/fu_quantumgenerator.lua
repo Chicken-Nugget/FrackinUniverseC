@@ -95,7 +95,7 @@ function update(dt)
             for key, value in pairs(config.getParameter("acceptablefuel")) do
                 -- go through our fuel table and see if the contents of the fuel slot match
                 if key == contents[1].name then -- found it!
-                    storage.fueledticks = value / 3 + math.random(20)
+                    storage.fueledticks = value
                     storage.powerprodmod = value
                     world.containerConsume(entity.id(), {name = contents[1].name, count = 1, data={}})
                     return -- end it here since we want to start again with the new fuel

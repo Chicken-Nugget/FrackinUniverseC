@@ -28,11 +28,7 @@
       [
         1,
         "Greg"
-      ],     
-      [
-        1,
-        "Kanye"
-      ],     
+      ],        
       [
         1,
         "Prolific"
@@ -96,11 +92,7 @@
       [
         1,
         "Ugu"
-      ],    
-      [
-        1,
-        "Caucasian"
-      ],    
+      ],      
       [
         1,
         "Kojima"
@@ -139,34 +131,6 @@
       ],    
       [
         1,
-        "Jagger"
-      ],    
-      [
-        1,
-        "Richards"
-      ],    
-      [
-        1,
-        "Harrison"
-      ],    
-      [
-        1,
-        "McCartney"
-      ],    
-      [
-        1,
-        "Lennon"
-      ],    
-      [
-        1,
-        "Joplin"
-      ],    
-      [
-        1,
-        "Marley"
-      ],    
-      [
-        1,
         "Diamond"
       ],    
       [
@@ -188,26 +152,10 @@
       [
         1,
         "Lumpy"
-      ],    
-      [
-        1,
-        "Allen"
-      ],
-      [
-        1,
-        "Marklar"
-      ],      
+      ],        
       [
         1,
         "West"
-      ],
-      [
-        1,
-        "Kent"
-      ],
-      [
-        1,
-        "Wayne"
       ],
       [
         1,
@@ -272,10 +220,6 @@
       [
         1,
         "Crateris"
-      ],
-      [
-        1,
-        "Crucis"
       ],
       [
         1,
@@ -1835,10 +1779,6 @@
       ],
       [
         1,
-        "Horsebutt"
-      ],
-      [
-        1,
         "Obsecri"
       ],
       [
@@ -1860,10 +1800,6 @@
       [
         1,
         "Puxerion"
-      ],
-      [
-        1,
-        "Redditron"
       ],
       [
         1,
@@ -1900,10 +1836,6 @@
       [
         1,
         "Eulernia"
-      ],
-      [
-        1,
-        "Earneck"
       ],
       [
         1,
@@ -2592,10 +2524,6 @@
       [
         1,
         "Vexaty"
-      ],
-      [
-        1,
-        "Nine-Toes"
       ],
       [
         1,
@@ -3513,7 +3441,7 @@
     "path": "/systemSuffixNames/75",
     "value": [
       1,
-      "Bon Jovi"
+      "Bonji"
     ]
   },
   {
@@ -3521,7 +3449,7 @@
     "path": "/systemSuffixNames/76",
     "value": [
       1,
-      "Van Halen"
+      "Vahal"
     ]
   },
   {
@@ -3761,7 +3689,7 @@
     "path": "/systemSuffixNames/106",
     "value": [
       1,
-      "Bieber"
+      "Binbar"
     ]
   },
   {
@@ -3841,7 +3769,7 @@
     "path": "/systemSuffixNames/115",
     "value": [
       1,
-      "Kardashian"
+      "Kintor"
     ]
   },  
   {
@@ -3857,7 +3785,7 @@
     "path": "/systemSuffixNames/115",
     "value": [
       1,
-      "Meme"
+      "Metr"
     ]
   },  
   {
@@ -4009,7 +3937,7 @@
     "path": "/systemSuffixNames/131",
     "value": [
       1,
-      "Dumbass"
+      "Dindle"
     ]
   },
   {
@@ -4025,7 +3953,7 @@
     "path": "/systemSuffixNames/133",
     "value": [
       1,
-      "Slurper"
+      "Snark"
     ]
   },
   {
@@ -4073,7 +4001,7 @@
     "path": "/systemSuffixNames/139",
     "value": [
       1,
-      "Tyson"
+      "Tyslo"
     ]
   },
   {
@@ -4210,7 +4138,7 @@
     "path": "/systemSuffixNames/156",
     "value": [
       1,
-      "Erectus"
+      "Etarcus"
     ]
   },  
   {
@@ -4354,7 +4282,7 @@
     "path": "/systemSuffixNames/174",
     "value": [
       1,
-      "Usuck"
+      "Arsik"
     ]
   },
   {
@@ -4426,7 +4354,7 @@
     "path": "/systemSuffixNames/183",
     "value": [
       1,
-      "Wang"
+      "Xang"
     ]
   },
   {
@@ -4434,7 +4362,7 @@
     "path": "/systemSuffixNames/184",
     "value": [
       1,
-      "Wiener"
+      "Winteir"
     ]
   },
   {
@@ -4442,7 +4370,7 @@
     "path": "/systemSuffixNames/185",
     "value": [
       1,
-      "Corpse"
+      "Cusp"
     ]
   },
   {
