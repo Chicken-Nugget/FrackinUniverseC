@@ -1,0 +1,23 @@
+{
+  "itemName" : "godlystim",
+  "rarity" : "legendary",
+  "price" : 2000,
+  "category" : "medicine",
+  "inventoryIcon" : "godlystim.png",
+  "description" : "One stim to rule them all.",
+  "shortdescription" : "Godly Stim",
+  "effects" : [ [
+2		{"effect" : "regeneration2", "duration" : 300},
+2		{"effect" : "shieldregen3", "duration" : 300},
+2		{"effect" : "defense4", "duration" : 300},
+2		{"effect" : "lowgrav", "duration" : 300},
+1		{"effect" : "swimboost2", "duration" : 300},
+2		{"effect" : "fusupermovementstim", "duration" : 300},
+4		{"effect" : "percentarmorboost60", "duration" : 300},
+4		{"effect" : "percenthealthbooststim2", "duration" : 300},
+4		{"effect" : "percentenergybooststim2", "duration" : 300},
+1		{"effect" : "honeyslowimmunity", "duration" : 300},
+2		{"effect" : "lowgrav_stim", "duration" : 300}
+	] ],
+  "learnBlueprintsOnPickup" : [ "godlystim" ]
+}

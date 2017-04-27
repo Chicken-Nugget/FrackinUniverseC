@@ -1,13 +1,11 @@
 {
   "itemName" : "protostim",
-  "rarity" : "legendary",
+  "rarity" : "rare",
   "price" : 200,
   "category" : "medicine",
   "inventoryIcon" : "protostim.png",
   "description" : "A long-lasting energy enhancer.",
   "shortdescription" : "Organic Energy Stim",
-  "effects" : [ [
-     "percentenergybooststim"
-    ] ],
-  "learnBlueprintsOnPickup" : [ "protostim" ]
+  "effects" : [ [ {"effect" : "percentenergybooststim", "duration" : 180} ] ],
+  "learnBlueprintsOnPickup" : [ "protostim", "godlystim" ]
 }

@@ -1,13 +1,11 @@
 {
   "itemName" : "uberstim",
-  "rarity" : "legendary",
-  "category" : "medicine",
+  "rarity" : "rare",
   "price" : 200,
+  "category" : "medicine",
   "inventoryIcon" : "uberstim.png",
   "description" : "Provides you with high dosage of performance enhancers. A VERY high dosage.",
   "shortdescription" : "Uber-Stim",
-  "effects" : [ [
-     "fusupermovementstim"
-    ] ],
-  "learnBlueprintsOnPickup" : [ "uberstim" ]
+  "effects" : [ [ {"effect" : "fusupermovementstim", "duration" : 180} ] ],
+  "learnBlueprintsOnPickup" : [ "uberstim", "godlystim" ]
 }

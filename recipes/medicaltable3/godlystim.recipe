@@ -1,0 +1,18 @@
+{
+  "input" : [
+    { "item" : "waterstim", "count" : 1 },
+    { "item" : "honeyboon", "count" : 1 },
+    { "item" : "protostim", "count" : 4 },
+    { "item" : "serumstim", "count" : 4 }.
+    { "item" : "thesauce", "count" : 4 },
+    { "item" : "uberstim", "count" : 2 },
+    { "item" : "ultrastim", "count" : 2 },
+    { "item" : "gravstim", "count" : 2 }
+  ],
+  "output" : {
+    "item" : "godlystim",
+    "count" : 1
+  },
+  "groups" : [ "craftingmedical3", "buffs", "all" ],
+  "duration" : 5
+}

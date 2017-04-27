@@ -1,13 +1,16 @@
 {
   "itemName" : "ultrastim",
-  "rarity" : "legendary",
+  "rarity" : "rare",
   "price" : 200,
   "category" : "medicine",
   "inventoryIcon" : "ultrastim.png",
   "description" : "A superior stim, providing shield regen, health regen, defense boost and gravity manipulation.",
   "shortdescription" : "X-Stim",
   "effects" : [ [
-     "regeneration2", "shieldregen3", "defense4", "lowgrav"
+		{"effect" : "regeneration2", "duration" : 180},
+		{"effect" : "shieldregen3", "duration" : 180},
+		{"effect" : "defense4", "duration" : 180},
+		{"effect" : "lowgrav", "duration" : 180}
     ] ],
-  "learnBlueprintsOnPickup" : [ "ultrastim" ]
+  "learnBlueprintsOnPickup" : [ "ultrastim", "godlystim" ]
 }

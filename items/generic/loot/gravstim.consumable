@@ -6,8 +6,6 @@
   "inventoryIcon" : "gravstim.png",
   "description" : "Temporarily alters your gravity. Don't ask how.",
   "shortdescription" : "Grav-Stim",
-  "effects" : [ [
-     "lowgrav_stim"
-    ] ],
-  "learnBlueprintsOnPickup" : [ "gravstim" ]
+  "effects" : [ [ {"effect" : "lowgrav_stim", "duration" : 180} ] ],
+  "learnBlueprintsOnPickup" : [ "gravstim", "godlystim" ]
 }

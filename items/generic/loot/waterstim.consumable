@@ -1,13 +1,11 @@
 {
   "itemName" : "waterstim",
-  "rarity" : "legendary",
+  "rarity" : "rare",
   "price" : 200,
   "category" : "medicine",
   "inventoryIcon" : "waterstim.png",
   "description" : "Drastically increases swimming speed.",
   "shortdescription" : "Deepwater Stim",
-  "effects" : [ [
-     "swimboost2"
-    ] ],
-  "learnBlueprintsOnPickup" : [ "waterstim" ]
+  "effects" : [ [ {"effect" : "swimboost2", "duration" : 300} ] ],
+  "learnBlueprintsOnPickup" : [ "waterstim", "godlystim" ]
 }

@@ -1,13 +1,11 @@
 {
   "itemName" : "honeyboon",
-  "rarity" : "legendary",
+  "rarity" : "rare",
   "price" : 200,
   "category" : "medicine",
   "inventoryIcon" : "honeyboon.png",
   "description" : "A long-lasting honey-repellant.",
   "shortdescription" : "Honeyboon Stim",
-  "effects" : [ [
-     "honeyslowimmunity"
-    ] ],
-  "learnBlueprintsOnPickup" : [ "honeyboon" ]
+  "effects" : [ [ {"effect" : "honeyslowimmunity", "duration" : 300} ] ],
+  "learnBlueprintsOnPickup" : [ "honeyboon", "godlystim" ]
 }

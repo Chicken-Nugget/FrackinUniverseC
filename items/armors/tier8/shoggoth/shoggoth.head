@@ -6,7 +6,7 @@
   "maxStack" : 1,
   "rarity" : "legendary",
   "description" : "Set Bonus:
-^e43774;+25% Damage (Elder)^reset;
+^#e43774;+25% Damage (Elder)^reset;
 ^cyan;Immunity: Heat, Cold, Radiation, Poison, Shadow, Pressure, Proto, Breath^reset;",
   "shortdescription" : "Shoggoth Mask",
   "category" : "headarmour",

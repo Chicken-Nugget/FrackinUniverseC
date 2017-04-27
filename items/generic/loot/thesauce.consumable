@@ -1,13 +1,11 @@
 {
   "itemName" : "thesauce",
-  "rarity" : "legendary",
+  "rarity" : "rare",
   "price" : 200,
   "category" : "medicine",
   "inventoryIcon" : "thesauce.png",
   "description" : "Protects you from the ravages of pain.",
   "shortdescription" : "The Sauce",
-  "effects" : [ [
-     "percentarmorboost30"
-    ] ],
-  "learnBlueprintsOnPickup" : [ "thesauce", "fflagoonchest", "fflagoonlegs", "fflagoonhead" ]
+  "effects" : [ [ {"effect" : "percentarmorboost30", "duration" : 180} ] ],
+  "learnBlueprintsOnPickup" : [ "thesauce", "fflagoonchest", "fflagoonlegs", "fflagoonhead", "godlystim" ]
 }
