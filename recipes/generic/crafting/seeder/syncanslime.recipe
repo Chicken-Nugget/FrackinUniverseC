@@ -1,0 +1,14 @@
+{
+  "input" : [
+  	{ "item" : "slime", "count" : 100 },
+	{ "item" : "liquidslime", "count" : 100 },
+	// Radiant Nebulizer (2) (Titanium)
+	{ "item" : "titaniumbar", "count" : 25 }
+  ],
+  "output" : {
+    "item" : "syncanslime",
+    "count" : 1
+  },
+  "duration" : 3,
+  "groups" : [ "seedercraft", "syncan" ]
+}

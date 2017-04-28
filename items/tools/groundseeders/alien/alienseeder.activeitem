@@ -1,0 +1,92 @@
+{
+  "itemName" : "alienseeder",
+  "price" : 500,
+  "inventoryIcon" : "alienseedericon.png",
+  "maxStack" : 1,
+  "rarity" : "Rare",
+  "description" : "Plant alien grass on any surface with aggressive photosynthesis!",
+  "shortdescription" : "Alien Grass Seeder",
+  "level" : 1,
+  "tooltipKind" : "tool",
+  "largeImage" : "alienseederlarge.png",
+  "category" : "^orange;Matter Synthesiser^white;",
+  "itemTags" : ["tool"],
+
+  "twoHanded" : false,
+
+  "learnBlueprintsOnPickup" : [ "nebulizermodule2", "alienseeder", "syncanalien" ],
+  "radioMessagesOnPickup" : [ "pickupmattersynthesiser" ],
+  
+  "animation" : "/items/active/weapons/ranged/gun.animation",
+  "animationParts" : {
+    "butt" : "",
+    "middle" : "alienseeder.png",
+    "barrel" : "",
+    "muzzleFlash" : ""
+  },
+  "animationCustom" : {
+    "sounds" : {
+      "fire" : ["/sfx/gun/blowgun1.ogg"]
+    },
+    "lights" : {
+      "muzzleFlash" : {
+        "color" : [0, 0, 0]
+      }
+    }
+  },
+
+  "baseOffset" : [0.0, 0.0],
+  "muzzleOffset" : [0.8, 0.6],
+
+  "scripts" : ["/items/active/weapons/ranged/gun.lua"],
+
+  "elementalType" : "physical",
+
+  "primaryAbility" : {
+    "scripts" : ["/items/active/weapons/ranged/gunfire.lua"],
+    "class" : "GunFire",
+
+    "fireTime" : 0.18,
+    "baseDps" : 0,
+    "energyUsage" : 0,
+    "inaccuracy" : 0,
+
+    "projectileCount" : 1,
+    "fireType" : "auto",
+
+    "projectileType" : "alienseedcloud",
+    "projectileParameters" : {
+      "speed" : 8.5
+    },
+    "stances" : {
+      "idle" : {
+        "armRotation" : 0,
+        "weaponRotation" : 0,
+        "twoHanded" : false,
+
+        "allowRotate" : true,
+        "allowFlip" : true
+      },
+      "fire" : {
+        "duration" : 0,
+        "armRotation" : 0,
+        "weaponRotation" : 0,
+        "twoHanded" : false,
+
+        "allowRotate" : false,
+        "allowFlip" : false
+      },
+      "cooldown" : {
+        "duration" : 0.17,
+        "armRotation" : 0,
+        "weaponRotation" : 0,
+        "twoHanded" : false,
+
+        "allowRotate" : true,
+        "allowFlip" : true
+      }
+    }
+  },
+
+  "builder" : "/items/buildscripts/buildunrandweapon.lua"
+}

@@ -1,0 +1,13 @@
+{
+  "itemName" : "syncanslime",
+  "price" : 0,
+  "rarity" : "Common",
+  "maxStack" : 99,
+  "category" : "Material Can",
+  "inventoryIcon" : "syncanslime.png",
+  "description" : "A can of gooey slime encased in a membrane. It's squishy and cold.",
+  "shortdescription" : "Slime Can",
+  "itemTags" : [ "reagent" ],
+  "learnBlueprintsOnPickup" : [ "nebulizermodule2", "slimeseeder", "syncanslime" ],
+  "radioMessagesOnPickup" : [ "pickupsyncan" ]
+}

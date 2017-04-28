@@ -1,0 +1,19 @@
+{
+  "pickupsyncan" : {
+    "type" : "tutorial",
+    "text" : "I see you have created a Material Can. Combine it with a ^orange;Nebulizer Module^reset; to create a ^#71f2f6;Matter Synthesiser^reset;. Material Cans hold nanotechnology too complex to explain to you."
+  },
+  "pickupnebulizer" : {
+    "type" : "tutorial",
+    "text" : "I see you have created a Nebulizer Module. Combine it with a ^orange;Material Can^reset; to create a ^#71f2f6;Matter Synthesiser^reset;. They're reverse-engineered from Matter Manipulators and 3D Printers."
+  },
+  "pickupmattersynthesiser" : {
+    "type" : "tutorial",
+    "text" : "You have obtained your first Matter Synthesiser. ^#71f2f6;Point and spray onto empty tiles to cover them with the can's contents^reset;. Synthesis technology was originally commissioned by Grand Protector Six."
+  },  
+  
+  "pickupseedercraftingstation" : {
+    "type" : "tutorial",
+    "text" : "You now have a Synthesis Table. ^orange;It can form Material Cans and Nebulizer Modules^reset; which are used to create ^#71f2f6;Matter Synthesisers^reset;. Its tank holds various nanomachines that construct on a molecular level."
+  }  
+}

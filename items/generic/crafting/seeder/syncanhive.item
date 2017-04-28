@@ -1,0 +1,13 @@
+{
+  "itemName" : "syncanhive",
+  "price" : 0,
+  "rarity" : "Common",
+  "maxStack" : 99,
+  "category" : "Material Can",
+  "inventoryIcon" : "syncanhive.png",
+  "description" : "A can of larvae and puss. The inside is restless.",
+  "shortdescription" : "Hive Grass Can",
+  "itemTags" : [ "reagent" ],
+  "learnBlueprintsOnPickup" : [ "nebulizermodule3", "hiveseeder", "syncanhive" ],
+  "radioMessagesOnPickup" : [ "pickupsyncan" ]
+}

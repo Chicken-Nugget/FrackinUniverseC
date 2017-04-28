@@ -1,0 +1,13 @@
+{
+  "itemName" : "syncanalien",
+  "price" : 0,
+  "rarity" : "Common",
+  "maxStack" : 99,
+  "category" : "Material Can",
+  "inventoryIcon" : "syncanalien.png",
+  "description" : "A can of atomized vivid alien grass seeds. The composite material is enigmatic.",
+  "shortdescription" : "Alien Grass Can",
+  "itemTags" : [ "reagent" ],
+  "learnBlueprintsOnPickup" : [ "nebulizermodule2", "alienseeder", "syncanalien" ],
+  "radioMessagesOnPickup" : [ "pickupsyncan" ]
+}

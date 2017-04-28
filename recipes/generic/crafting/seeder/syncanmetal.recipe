@@ -1,0 +1,16 @@
+{
+  "input" : [
+  	{ "item" : "ironbar", "count" : 50 },
+  	{ "item" : "silverbar", "count" : 50 },
+	{ "item" : "liquidlava", "count" : 50 },
+	{ "item" : "volatilepowder", "count" : 25 },
+	// Emulsive Nebulizer (4) (Solarium Star)
+	{ "item" : "solariumstar", "count" : 25 }
+  ],
+  "output" : {
+    "item" : "syncanmetal",
+    "count" : 1
+  },
+  "duration" : 3,
+  "groups" : [ "seedercraft", "syncan" ]
+}

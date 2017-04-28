@@ -1,0 +1,13 @@
+{
+  "input" : [
+  	{ "item" : "tar", "count" : 200 },
+	{ "item" : "liquidoil", "count" : 100 },
+	{ "item" : "ironbar", "count" : 25 }
+  ],
+  "output" : {
+    "item" : "syncantar",
+    "count" : 1
+  },
+  "duration" : 3,
+  "groups" : [ "seedercraft", "syncan" ]
+}

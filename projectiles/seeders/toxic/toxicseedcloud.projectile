@@ -1,0 +1,22 @@
+{
+  "projectileName" : "toxicseedcloud",
+  "image" : "toxicseedcloud.png",
+  "animationCycle" : 0.7,
+  "frameNumber" : 7,
+  "timeToLive" : 0.7,
+  
+    "actionOnReap" : [
+    {
+      "action" : "applySurfaceMod",
+      "previousMod" : "metamod:none",
+      // "previousMod" : null,
+      "newMod" : "toxicgrass",
+      "radius" : 1
+    }
+  ],
+  
+  "damagePoly" : [ ],
+  "damageKind" : "hidden",
+  "statusEffects" : [
+  ]
+}

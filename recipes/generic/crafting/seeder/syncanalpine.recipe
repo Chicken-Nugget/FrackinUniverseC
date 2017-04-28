@@ -1,0 +1,15 @@
+{
+  "input" : [
+  	{ "item" : "grassseeds", "count" : 50 },
+	{ "item" : "grassyrock", "count" : 100 },
+    { "item" : "snow", "count" : 100 },
+	// Cryonic Nebulizer (3) (Durasteel)
+	{ "item" : "durasteelbar", "count" : 25 }
+  ],
+  "output" : {
+    "item" : "syncanalpine",
+    "count" : 1
+  },
+  "duration" : 3,
+  "groups" : [ "seedercraft", "syncan" ]
+}

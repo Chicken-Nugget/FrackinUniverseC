@@ -1,0 +1,22 @@
+{
+  "projectileName" : "flowerseedcloud",
+  "image" : "flowerseedcloud.png",
+  "animationCycle" : 0.7,
+  "frameNumber" : 7,
+  "timeToLive" : 0.7,
+  
+    "actionOnReap" : [
+    {
+      "action" : "applySurfaceMod",
+      "previousMod" : "metamod:none",
+      // "previousMod" : null,
+      "newMod" : "flowerygrass",
+      "radius" : 1
+    }
+  ],
+  
+  "damagePoly" : [ ],
+  "damageKind" : "hidden",
+  "statusEffects" : [
+  ]
+}

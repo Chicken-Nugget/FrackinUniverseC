@@ -1,0 +1,13 @@
+{
+  "itemName" : "syncanflower",
+  "price" : 0,
+  "rarity" : "Common",
+  "maxStack" : 99,
+  "category" : "Material Can",
+  "inventoryIcon" : "syncanflower.png",
+  "description" : "A can of atomized flowery grass seeds. There are many types of flowers within.",
+  "shortdescription" : "Flowery Grass Can",
+  "itemTags" : [ "reagent" ],
+  "learnBlueprintsOnPickup" : [ "nebulizermodule1", "flowerseeder", "syncanflower" ],
+  "radioMessagesOnPickup" : [ "pickupsyncan" ]
+}

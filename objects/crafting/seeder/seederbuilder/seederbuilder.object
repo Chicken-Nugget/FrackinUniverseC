@@ -1,0 +1,57 @@
+{
+  "objectName" : "seederbuilder",
+  "colonyTags" : ["crafting"],
+  "rarity" : "Rare",
+  "interactAction" : "OpenCraftingInterface",
+  "interactData" : {
+    "config" : "/interface/windowconfig/craftingseederbuild.config",
+    "filter" : [ "seederbuild" ]
+  },
+  "printable" : false,
+  "description" : "Used to assemble Matter Synthesiser or \"surface modifier\" components.",
+  "shortdescription" : "^orange;Matter Synth. Assembler^white;",
+  "race" : "generic",
+  "category" : "crafting",
+  "price" : 120,
+  
+  "lightColor" : [23, 91, 126],
+  "lightPosition" : [0, 0],
+
+  "apexDescription" : "Gravity particles suspend objects for absolute precision in construction.",
+  "avianDescription" : "The particles float methodically in this device.",
+  "floranDescription" : "Ssshiny particlesss hold crafting partsss.",
+  "glitchDescription" : "Mesmerized. The lights sparkle like glowing fairies.",
+  "humanDescription" : "It's a Matter Synthesiser assembler!",
+  "hylotlDescription" : "The gravity particles in this device are hypnotic.",
+  "novakidDescription" : "This machine is all glowy like me!",
+  
+  "inventoryIcon" : "seederbuildericon.png",
+  "orientations" : [
+    {
+      "imageLayers" : [ { "image" : "seederbuilder.png:<color>.<frame>", "fullbright" : true }, { "image" : "seederbuilderlit.png:<color>.<frame>" } ],
+
+      "imagePosition" : [0, 0],
+      "frames" : 12,
+      "animationCycle" : 2.0,
+      
+      "direction" : "left",
+      "flipImages" : true,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    },
+    {
+      "imageLayers" : [ { "image" : "seederbuilder.png:<color>.<frame>", "fullbright" : true }, { "image" : "seederbuilderlit.png:<color>.<frame>" } ],
+
+      "imagePosition" : [0, 0],
+      "frames" : 12,
+      "animationCycle" : 2.0,
+      
+      "direction" : "right",
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    }
+  ]
+
+}

@@ -1,0 +1,16 @@
+{
+  "input" : [
+  	{ "item" : "tentacleblock", "count" : 100 },
+	{ "item" : "jellyblock", "count" : 100 },
+	{ "item" : "liquidpoison", "count" : 100 },
+	{ "item" : "refinedaegisalt", "count" : 10 },
+	{ "item" : "refinedferozium", "count" : 10 },
+	{ "item" : "refinedviolium", "count" : 10 }
+  ],
+  "output" : {
+    "item" : "syncantentacle",
+    "count" : 1
+  },
+  "duration" : 3,
+  "groups" : [ "seedercraft", "syncan" ]
+}

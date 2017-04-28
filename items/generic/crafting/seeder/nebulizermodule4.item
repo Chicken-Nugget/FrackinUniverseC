@@ -1,0 +1,14 @@
+{
+  "itemName" : "nebulizermodule4",
+  "price" : 0,
+  "rarity" : "Uncommon",
+  "maxStack" : 99,
+  "category" : "Nebulizer Module",
+  "inventoryIcon" : "nebulizermodule4.png",
+  "description" : "Divides particles, replicates them, then sprays them in a fine mist.",
+  "shortdescription" : "Emulsive Nebulizer",
+  "itemTags" : [ "reagent" ],
+  
+  "learnBlueprintsOnPickup" : [ "nebulizermodule4" ],
+  "radioMessagesOnPickup" : [ "pickupnebulizer" ]
+}

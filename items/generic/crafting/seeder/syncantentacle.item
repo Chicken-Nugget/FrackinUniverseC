@@ -1,0 +1,13 @@
+{
+  "itemName" : "syncantentacle",
+  "price" : 0,
+  "rarity" : "Common",
+  "maxStack" : 99,
+  "category" : "Material Can",
+  "inventoryIcon" : "syncantentacle.png",
+  "description" : "A can corrupted by the Ruin. Why would you make this?",
+  "shortdescription" : "Tentacle Parasite Can",
+  "itemTags" : [ "reagent" ],
+  "learnBlueprintsOnPickup" : [ "nebulizermodule5", "tentacleseeder", "syncantentacle" ],
+  "radioMessagesOnPickup" : [ "pickupsyncan" ]
+}

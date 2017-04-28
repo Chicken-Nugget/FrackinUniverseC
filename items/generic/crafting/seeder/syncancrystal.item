@@ -1,0 +1,13 @@
+{
+  "itemName" : "syncancrystal",
+  "price" : 0,
+  "rarity" : "Common",
+  "maxStack" : 99,
+  "category" : "Material Can",
+  "inventoryIcon" : "syncancrystal.png",
+  "description" : "A can of purified crystal. Light refracts intensely throughout.",
+  "shortdescription" : "Crystal Grass Can",
+  "itemTags" : [ "reagent" ],
+  "learnBlueprintsOnPickup" : [ "nebulizermodule4", "crystalseeder", "syncancrystal" ],
+  "radioMessagesOnPickup" : [ "pickupsyncan" ]
+}

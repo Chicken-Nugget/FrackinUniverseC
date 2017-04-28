@@ -1,0 +1,13 @@
+{
+  "itemName" : "syncantar",
+  "price" : 0,
+  "rarity" : "Common",
+  "maxStack" : 99,
+  "category" : "Material Can",
+  "inventoryIcon" : "syncantar.png",
+  "description" : "A can of thick tar, oil, and an unknown genome sequence.",
+  "shortdescription" : "Tar Can",
+  "itemTags" : [ "reagent" ],
+  "learnBlueprintsOnPickup" : [ "nebulizermodule3", "tarseeder", "syncantar" ],
+  "radioMessagesOnPickup" : [ "pickupsyncan" ]
+}

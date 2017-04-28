@@ -1,0 +1,14 @@
+{
+  "itemName" : "nebulizermodule5",
+  "price" : 0,
+  "rarity" : "Uncommon",
+  "maxStack" : 99,
+  "category" : "Nebulizer Module",
+  "inventoryIcon" : "nebulizermodule5.png",
+  "description" : "Divides particles, replicates them, then sprays them in a fine mist.",
+  "shortdescription" : "Alpha Nebulizer",
+  "itemTags" : [ "reagent" ],
+  
+  "learnBlueprintsOnPickup" : [ "nebulizermodule5" ],
+  "radioMessagesOnPickup" : [ "pickupnebulizer" ]
+}

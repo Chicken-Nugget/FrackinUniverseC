@@ -1,0 +1,13 @@
+{
+  "input" : [
+    { "item" : "manipulatormodule", "count" : 4 },
+	{ "item" : "solariumstar", "count" : 20 },
+	{ "item" : "diamond", "count" : 1 }
+  ],
+  "output" : {
+    "item" : "nebulizermodule4",
+    "count" : 1
+  },
+  "duration" : 1,
+  "groups" : [ "seedercraft", "nebulizer" ]
+}

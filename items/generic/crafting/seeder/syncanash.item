@@ -1,0 +1,13 @@
+{
+  "itemName" : "syncanash",
+  "price" : 0,
+  "rarity" : "Common",
+  "maxStack" : 99,
+  "category" : "Material Can",
+  "inventoryIcon" : "syncanash.png",
+  "description" : "A can of atomized volcanic ash. It has a charred, smoky smell.",
+  "shortdescription" : "Ash Can",
+  "itemTags" : [ "reagent" ],
+  "learnBlueprintsOnPickup" : [ "nebulizermodule4", "ashseeder", "syncanash" ],
+  "radioMessagesOnPickup" : [ "pickupsyncan" ]
+}

@@ -1,0 +1,13 @@
+{
+  "itemName" : "syncansnowy",
+  "price" : 0,
+  "rarity" : "Common",
+  "maxStack" : 99,
+  "category" : "Material Can",
+  "inventoryIcon" : "syncansnowy.png",
+  "description" : "A can of atomized snowy grass seeds. The core is kept frozen.",
+  "shortdescription" : "Snowy Grass Can",
+  "itemTags" : [ "reagent" ],
+  "learnBlueprintsOnPickup" : [ "nebulizermodule3", "snowyseeder", "syncansnowy" ],
+  "radioMessagesOnPickup" : [ "pickupsyncan" ]
+}

@@ -1,0 +1,13 @@
+{
+  "itemName" : "syncanarid",
+  "price" : 0,
+  "rarity" : "Common",
+  "maxStack" : 99,
+  "category" : "Material Can",
+  "inventoryIcon" : "syncanarid.png",
+  "description" : "A can of atomized arid grass seeds. The inside is extremely dry.",
+  "shortdescription" : "Arid Grass Can",
+  "itemTags" : [ "reagent" ],
+  "learnBlueprintsOnPickup" : [ "nebulizermodule1", "aridseeder", "syncanarid" ],
+  "radioMessagesOnPickup" : [ "pickupsyncan" ]
+}

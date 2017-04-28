@@ -1,0 +1,13 @@
+{
+  "itemName" : "syncansand",
+  "price" : 0,
+  "rarity" : "Common",
+  "maxStack" : 99,
+  "category" : "Material Can",
+  "inventoryIcon" : "syncansand.png",
+  "description" : "A can of loose sand encased in hardened sand. Shaking it makes a swooshing sound.",
+  "shortdescription" : "Sand Can",
+  "itemTags" : [ "reagent" ],
+  "learnBlueprintsOnPickup" : [ "nebulizermodule1", "sandseeder", "syncansand" ],
+  "radioMessagesOnPickup" : [ "pickupsyncan" ]
+}

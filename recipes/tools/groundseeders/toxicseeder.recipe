@@ -1,0 +1,13 @@
+{
+  "input" : [
+    { "item" : "nebulizermodule2", "count" : 1 },
+	{ "item" : "syncantoxic", "count" : 1 }
+  ],
+  "output" : {
+    "item" : "toxicseeder",
+    "count" : 1
+  },
+  
+  "duration" : 3.5,
+  "groups" : [ "seederbuild", "seedercraft" ]
+}

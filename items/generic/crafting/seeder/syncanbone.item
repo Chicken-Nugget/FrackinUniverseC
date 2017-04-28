@@ -1,0 +1,13 @@
+{
+  "itemName" : "syncanbone",
+  "price" : 0,
+  "rarity" : "Common",
+  "maxStack" : 99,
+  "category" : "Material Can",
+  "inventoryIcon" : "syncanbone.png",
+  "description" : "A can of liquid bone marrow and a humanoid genome sequence.",
+  "shortdescription" : "Crushed Bone Can",
+  "itemTags" : [ "reagent" ],
+  "learnBlueprintsOnPickup" : [ "nebulizermodule1", "boneseeder", "syncanbone" ],
+  "radioMessagesOnPickup" : [ "pickupsyncan" ]
+}

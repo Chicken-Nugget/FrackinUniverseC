@@ -1,0 +1,13 @@
+{
+  "itemName" : "syncancharred",
+  "price" : 0,
+  "rarity" : "Common",
+  "maxStack" : 99,
+  "category" : "Material Can",
+  "inventoryIcon" : "syncancharred.png",
+  "description" : "A can of atomized charred grass seeds. The inside is slightly burned.",
+  "shortdescription" : "Charred Grass Can",
+  "itemTags" : [ "reagent" ],
+  "learnBlueprintsOnPickup" : [ "nebulizermodule1", "charredseeder", "syncancharred" ],
+  "radioMessagesOnPickup" : [ "pickupsyncan" ]
+}

@@ -1,0 +1,13 @@
+{
+  "input" : [
+    { "item" : "nebulizermodule1", "count" : 1 },
+	{ "item" : "syncansavannah", "count" : 1 }
+  ],
+  "output" : {
+    "item" : "savannahseeder",
+    "count" : 1
+  },
+  
+  "duration" : 6,
+  "groups" : [ "seederbuild", "seedercraft" ]
+}

@@ -1,0 +1,60 @@
+{
+  "objectName" : "seedercraftingstation",
+  "colonyTags" : ["crafting"],
+  "rarity" : "Rare",
+  "interactAction" : "OpenCraftingInterface",
+  "interactData" : {
+    "config" : "/interface/windowconfig/craftingseeder2.config",
+    "filter" : [ "seedercraft" ]
+  },
+  "printable" : false,
+  "description" : "Used to make Matter Synthesisers and their base components.",
+  "shortdescription" : "^orange;Synthesis Table^white;",
+  "race" : "generic",
+  "category" : "crafting",
+  "price" : 120,
+  
+  "lightColor" : [24, 130, 150],
+  "lightPosition" : [0, 0],
+
+  "apexDescription" : "Such powerful technology! The protectorate were very advanced.",
+  "avianDescription" : "The bubbly liquid is almost hypnotic, steadily rising upwards.",
+  "floranDescription" : "Ssshiny fluid makesss growing thingsss.",
+  "glitchDescription" : "Inspired. I can forge all manner of material synthesisers.",
+  "humanDescription" : "Shiny bubbles are suspended in the tank!",
+  "hylotlDescription" : "The water inside contains all manner of particles!",
+  "novakidDescription" : "This liquid glows brighter than I do!",
+
+  "soundEffect" : "/sfx/objects/apexpod.ogg",
+  
+  "inventoryIcon" : "seedercraftingstationicon.png",
+  "orientations" : [
+    {
+      "imageLayers" : [ { "image" : "seedercraftingstation.png:<color>.<frame>", "fullbright" : true }, { "image" : "seedercraftingstationlit.png:<color>.<frame>" } ],
+
+      "imagePosition" : [0, 0],
+      "frames" : 18,
+      "animationCycle" : 2.5,
+      
+      "direction" : "left",
+      "flipImages" : true,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    },
+    {
+      "imageLayers" : [ { "image" : "seedercraftingstation.png:<color>.<frame>", "fullbright" : true }, { "image" : "seedercraftingstationlit.png:<color>.<frame>" } ],
+
+      "imagePosition" : [0, 0],
+      "frames" : 18,
+      "animationCycle" : 2.5,
+      
+      "direction" : "right",
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    }
+  ],
+  
+  "radioMessagesOnPickup" : [ "pickupseedercraftingstation" ]
+}

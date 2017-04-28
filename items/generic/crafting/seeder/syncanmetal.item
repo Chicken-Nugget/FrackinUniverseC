@@ -1,0 +1,13 @@
+{
+  "itemName" : "syncanmetal",
+  "price" : 0,
+  "rarity" : "Common",
+  "maxStack" : 99,
+  "category" : "Material Can",
+  "inventoryIcon" : "syncanmetal.png",
+  "description" : "A can of molten metal. The core is kept warm.",
+  "shortdescription" : "Melted Metal Can",
+  "itemTags" : [ "reagent" ],
+ "learnBlueprintsOnPickup" : [ "nebulizermodule4", "metalseeder", "syncanmetal" ],
+  "radioMessagesOnPickup" : [ "pickupsyncan" ]
+}

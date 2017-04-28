@@ -1,0 +1,14 @@
+{
+  "itemName" : "nebulizermodule3",
+  "price" : 0,
+  "rarity" : "Uncommon",
+  "maxStack" : 99,
+  "category" : "Nebulizer Module",
+  "inventoryIcon" : "nebulizermodule3.png",
+  "description" : "Divides particles, replicates them, then sprays them in a fine mist.",
+  "shortdescription" : "Cryonic Nebulizer",
+  "itemTags" : [ "reagent" ],
+  
+  "learnBlueprintsOnPickup" : [ "nebulizermodule3" ],
+  "radioMessagesOnPickup" : [ "pickupnebulizer" ]
+}

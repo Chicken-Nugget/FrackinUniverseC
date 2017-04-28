@@ -1,0 +1,13 @@
+{
+  "itemName" : "syncanalpine",
+  "price" : 0,
+  "rarity" : "Common",
+  "maxStack" : 99,
+  "category" : "Material Can",
+  "inventoryIcon" : "syncanalpine.png",
+  "description" : "A can of atomized alpine grass seeds. The core is kept chilled.",
+  "shortdescription" : "Alpine Grass Can",
+  "itemTags" : [ "reagent" ],
+  "learnBlueprintsOnPickup" : [ "nebulizermodule3", "alpineseeder", "syncanalpine" ],
+  "radioMessagesOnPickup" : [ "pickupsyncan" ]
+}

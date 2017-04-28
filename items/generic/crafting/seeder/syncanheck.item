@@ -1,0 +1,13 @@
+{
+  "itemName" : "syncanheck",
+  "price" : 0,
+  "rarity" : "Common",
+  "maxStack" : 99,
+  "category" : "Material Can",
+  "inventoryIcon" : "syncanheck.png",
+  "description" : "A can of an unknown membrane composite and an unknown genome sequence.",
+  "shortdescription" : "Heck Grass Can",
+  "itemTags" : [ "reagent" ],
+  "learnBlueprintsOnPickup" : [ "nebulizermodule2", "heckseeder", "syncanheck" ],
+  "radioMessagesOnPickup" : [ "pickupsyncan" ]
+}

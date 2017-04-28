@@ -1,0 +1,13 @@
+{
+  "itemName" : "syncantoxic",
+  "price" : 0,
+  "rarity" : "Common",
+  "maxStack" : 99,
+  "category" : "Material Can",
+  "inventoryIcon" : "syncantoxic.png",
+  "description" : "A can of radioactive toxic waste. Glowing liquid seeps out.",
+  "shortdescription" : "Toxic Grass Can",
+  "itemTags" : [ "reagent" ],
+  "learnBlueprintsOnPickup" : [ "nebulizermodule2", "toxicseeder", "syncantoxic" ],
+  "radioMessagesOnPickup" : [ "pickupsyncan" ]
+}

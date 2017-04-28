@@ -1,0 +1,15 @@
+{
+  "input" : [
+  	{ "item" : "grassseeds", "count" : 50 },
+  	{ "item" : "plantfibre", "count" : 200 },
+	{ "item" : "liquidpoison", "count" : 100 },
+	// Radiant Nebulizer (2) (Titanium)
+	{ "item" : "titaniumbar", "count" : 25 }
+  ],
+  "output" : {
+    "item" : "syncanjungle",
+    "count" : 1
+  },
+  "duration" : 3,
+  "groups" : [ "seedercraft", "syncan" ]
+}

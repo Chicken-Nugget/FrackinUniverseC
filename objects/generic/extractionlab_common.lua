@@ -603,6 +603,7 @@ function getRecipes()
 	{ inputs = { xaxseed = 1 }, outputs = { tissueculture = { 5, 5, 7 } } },
 	{ inputs = { yellowfootseed = 1 }, outputs = { tissueculture = { 4, 4, 7 } } },
 	{ inputs = { zathiseed = 1 }, outputs = { geneticmaterial = { 8, 8, 9 } } },
+       
 	-- from FU
 	{ inputs = { effigiumore = 5 }, outputs = { essence = { 1, 2, 3 } } },
 	{ inputs = { aenemapetal = 1 }, outputs = { shadowgasliquid = 1 } },
@@ -713,6 +714,7 @@ function getRecipes()
 	-- from vanilla
 	{ inputs = { alienfruit = 1 }, outputs = { tissueculture = { 3, 3, 5 } } },
 	{ inputs = { alienmeat = 1 }, outputs = { geneticmaterial = { 5, 5, 8 } } },
+	{ inputs = { bannana = 1 }, outputs = { tissueculture = { 3, 3, 5 } } },
 	{ inputs = { boltbulb = 1 }, outputs = { rawminerals = 3 } },
 	{ inputs = { cacti = 1 }, outputs = { tissueculture = { 3, 3, 5 } } },
 	{ inputs = { carrot = 1 }, outputs = { tissueculture = { 3, 3, 5 } } },

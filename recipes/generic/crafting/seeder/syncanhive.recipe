@@ -1,0 +1,14 @@
+{
+  "input" : [
+  	{ "item" : "hive", "count" : 200 },
+  	{ "item" : "larva", "count" : 100 },	
+	// Cryonic Nebulizer (3) (Durasteel)
+	{ "item" : "durasteelbar", "count" : 25 }
+  ],
+  "output" : {
+    "item" : "syncanhive",
+    "count" : 1
+  },
+  "duration" : 3,
+  "groups" : [ "seedercraft", "syncan" ]
+}

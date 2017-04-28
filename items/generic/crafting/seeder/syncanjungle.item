@@ -1,0 +1,13 @@
+{
+  "itemName" : "syncanjungle",
+  "price" : 0,
+  "rarity" : "Common",
+  "maxStack" : 99,
+  "category" : "Material Can",
+  "inventoryIcon" : "syncanjungle.png",
+  "description" : "A can of atomized jungle grass seeds. They can grow almost anywhere.",
+  "shortdescription" : "Jungle Grass Can",
+  "itemTags" : [ "reagent" ],
+  "learnBlueprintsOnPickup" : [ "nebulizermodule1", "jungleseeder", "syncanjungle" ],
+  "radioMessagesOnPickup" : [ "pickupsyncan" ]
+}

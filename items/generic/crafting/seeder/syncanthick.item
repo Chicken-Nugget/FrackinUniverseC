@@ -1,0 +1,13 @@
+{
+  "itemName" : "syncanthick",
+  "price" : 0,
+  "rarity" : "Common",
+  "maxStack" : 99,
+  "category" : "Material Can",
+  "inventoryIcon" : "syncanthick.png",
+  "description" : "A can of thick grass seeds. They can grow nearly anywhere.",
+  "shortdescription" : "Thick Grass Can",
+  "itemTags" : [ "reagent" ],
+  "learnBlueprintsOnPickup" : [ "nebulizermodule1", "thickseeder", "syncanthick" ],
+  "radioMessagesOnPickup" : [ "pickupsyncan" ]
+}

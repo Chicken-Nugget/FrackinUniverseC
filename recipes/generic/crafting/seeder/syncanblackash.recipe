@@ -1,0 +1,15 @@
+{
+  "input" : [
+  	{ "item" : "ash", "count" : 200 },
+    { "item" : "magmarock", "count" : 100 },
+    { "item" : "liquidlava", "count" : 100 },
+	// Emulsive Nebulizer (4) (Solarium Star)	
+	{ "item" : "solariumstar", "count" : 25 }
+  ],
+  "output" : {
+    "item" : "syncanblackash",
+    "count" : 1
+  },
+  "duration" : 3,
+  "groups" : [ "seedercraft", "syncan" ]
+}

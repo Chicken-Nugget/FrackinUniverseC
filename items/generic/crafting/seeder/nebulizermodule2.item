@@ -1,0 +1,14 @@
+{
+  "itemName" : "nebulizermodule2",
+  "price" : 0,
+  "rarity" : "Uncommon",
+  "maxStack" : 99,
+  "category" : "Nebulizer Module",
+  "inventoryIcon" : "nebulizermodule2.png",
+  "description" : "Divides particles, replicates them, then sprays them in a fine mist.",
+  "shortdescription" : "Radiant Nebulizer",
+  "itemTags" : [ "reagent" ],
+  
+  "learnBlueprintsOnPickup" : [ "nebulizermodule2" ],
+  "radioMessagesOnPickup" : [ "pickupnebulizer" ]
+}

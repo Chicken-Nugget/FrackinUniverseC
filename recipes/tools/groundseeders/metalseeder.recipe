@@ -1,0 +1,13 @@
+{
+  "input" : [
+    { "item" : "nebulizermodule4", "count" : 1 },
+	{ "item" : "syncanmetal", "count" : 1 }
+  ],
+  "output" : {
+    "item" : "metalseeder",
+    "count" : 1
+  },
+  
+  "duration" : 3.5,
+  "groups" : [ "seederbuild", "seedercraft" ]
+}

@@ -1,0 +1,13 @@
+{
+  "itemName" : "syncanflesh",
+  "price" : 0,
+  "rarity" : "Common",
+  "maxStack" : 99,
+  "category" : "Material Can",
+  "inventoryIcon" : "syncanflesh.png",
+  "description" : "A can of soupy plasma and an unknown genome sequence.",
+  "shortdescription" : "Flesh Grass Can",
+  "itemTags" : [ "reagent" ],
+  "learnBlueprintsOnPickup" : [ "nebulizermodule2", "fleshseeder", "syncanflesh" ],
+  "radioMessagesOnPickup" : [ "pickupsyncan" ]
+}

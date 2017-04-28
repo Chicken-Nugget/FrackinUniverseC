@@ -1,0 +1,13 @@
+{
+  "itemName" : "syncanblackash",
+  "price" : 0,
+  "rarity" : "Common",
+  "maxStack" : 99,
+  "category" : "Material Can",
+  "inventoryIcon" : "syncanblackash.png",
+  "description" : "A can of atomized black ash. The inside is charred to a crisp.",
+  "shortdescription" : "Black Ash Can",
+  "itemTags" : [ "reagent" ],
+  "learnBlueprintsOnPickup" : [ "nebulizermodule4", "blackashseeder", "syncanblackash" ],
+  "radioMessagesOnPickup" : [ "pickupsyncan" ]
+}

@@ -1,0 +1,13 @@
+{
+  "itemName" : "syncancolorful",
+  "price" : 0,
+  "rarity" : "Common",
+  "maxStack" : 99,
+  "category" : "Material Can",
+  "inventoryIcon" : "syncancolorful.png",
+  "description" : "A can of colourful grass seeds. There is a slightly sweet scent.",
+  "shortdescription" : "Colourful Grass Can",
+  "itemTags" : [ "reagent" ],
+  "learnBlueprintsOnPickup" : [ "nebulizermodule1", "colorfulseeder", "syncancolorful" ],
+  "radioMessagesOnPickup" : [ "pickupsyncan" ]
+}
