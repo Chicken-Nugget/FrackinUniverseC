@@ -4,8 +4,11 @@
   "price" : 200,
   "category" : "medicine",
   "inventoryIcon" : "honeyboon.png",
-  "description" : "A long-lasting honey-repellant.",
+  "description" : "A long-lasting honey and bee repellant.",
   "shortdescription" : "Honeyboon Stim",
-  "effects" : [ [ {"effect" : "honeyslowimmunity", "duration" : 300} ] ],
+  "effects" : [ [
+		{"effect" : "beestingimmunity", "duration" : 300},
+		{"effect" : "honeyslowimmunity", "duration" : 300}
+	] ],
   "learnBlueprintsOnPickup" : [ "honeyboon", "godlystim" ]
 }

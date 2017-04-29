@@ -7,17 +7,18 @@
   "description" : "One stim to rule them all.",
   "shortdescription" : "Godly Stim",
   "effects" : [ [
+		{"effect" : "energyregenfu50", "duration" : 300},
+		{"effect" : "lowgrav", "amount" : 0.20, "duration" : 300},
+		{"effect" : "jumpboost", "amount" : 0.40, "duration" : 300},
 		{"effect" : "regeneration2", "duration" : 300},
 		{"effect" : "shieldregen3", "duration" : 300},
 		{"effect" : "defense4", "duration" : 300},
-		{"effect" : "lowgrav", "duration" : 300},
 		{"effect" : "swimboost2", "duration" : 300},
 		{"effect" : "fusupermovementstim", "duration" : 300},
 		{"effect" : "percentarmorboost60", "duration" : 300},
 		{"effect" : "percenthealthbooststim2", "duration" : 300},
 		{"effect" : "percentenergybooststim2", "duration" : 300},
-		{"effect" : "honeyslowimmunity", "duration" : 300},
-		{"effect" : "lowgrav_stim", "duration" : 300}
+		{"effect" : "honeyslowimmunity", "duration" : 300}
 	] ],
   "learnBlueprintsOnPickup" : [ "godlystim" ]
 }
