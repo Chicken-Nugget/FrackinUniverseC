@@ -1,0 +1,13 @@
+{
+  "input" : [
+    { "item" : "metallicmaterial", "count" : 20 },
+    { "item" : "durasteelbar", "count" : 1 },
+    { "item" : "diamond", "count" : 1 },   
+    { "item" : "phasematter", "count" : 1 }
+  ],
+  "output" : {
+    "item" : "sciencepettether",
+    "count" : 1
+  },
+  "groups" : [ "capturestation", "all", "mod" ]
+}
