@@ -2,7 +2,7 @@
   "itemName" : "agedrum",
   "rarity" : "Common",
   "category" : "drink",
-  "price" : 100,
+  "price" : 2030,
   "inventoryIcon" : "agedrum.png",
   "description" : "Effect: ^orange;600s^reset;
 ^cyan;Weak Regeneration^reset;",

@@ -2,7 +2,7 @@
   "itemName" : "beer",
   "rarity" : "Common",
   "category" : "drink",
-  "price" : 100,
+  "price" : 210,
   "inventoryIcon" : "beer.png",
   "description" : "Effect: ^orange;300s^reset;
 ^cyan;Immunity to Slush, Snow, Ice, Mud, Tar, and Slime^reset;",

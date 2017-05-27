@@ -1,7 +1,7 @@
 {
   "itemName" : "darkale",
   "rarity" : "Common",
-  "price" : 100,
+  "price" : 400,
   "category" : "drink",
   "inventoryIcon" : "darkale.png",
   "description" : "Effect: ^orange;300s^reset;

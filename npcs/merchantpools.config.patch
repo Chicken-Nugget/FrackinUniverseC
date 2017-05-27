@@ -2,17 +2,22 @@
   {
     "op": "add",
     "path": "/basicmerchant/0/1/-",
+    "value": { "item" : { "name" : "copperbeakegg" }, "rarity" : 0.03 }
+  },
+  {
+    "op": "add",
+    "path": "/basicmerchant/0/1/-",
     "value": { "item" : { "name" : "megastatue" }, "rarity" : 0.005 }
   },
   {
     "op": "add",
     "path": "/basicmerchant/0/1/-",
-    "value": { "item" : { "name" : "graphene" }, "rarity" : 0.025 } 
+    "value": { "item" : { "name" : "graphene" }, "rarity" : 0.025 }
   },
   {
     "op": "add",
     "path": "/basicmerchant/0/1/-",
-    "value": { "item" : { "name" : "dnasample" }, "rarity" : 0.025 } 
+    "value": { "item" : { "name" : "dnasample" }, "rarity" : 0.025 }
   },
   {
     "op": "add",
@@ -44,7 +49,6 @@
     "path": "/basicmerchant/0/1/-",
     "value": { "item" : { "name" : "fu_oxygen" }, "rarity" : 0.025 }
   },
-  
   {
     "op": "add",
     "path": "/basicmerchant/0/1/-",

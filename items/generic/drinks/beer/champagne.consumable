@@ -2,7 +2,7 @@
   "itemName" : "champagne",
   "rarity" : "Common",
   "category" : "drink",
-  "price" : 300,
+  "price" : 1180,
   "inventoryIcon" : "champagne.png",
   "description" : "Effect: ^orange;300s^reset;
 ^cyan;+10% Energy Regen, +5% Max Energy^reset;",

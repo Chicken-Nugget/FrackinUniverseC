@@ -2,7 +2,7 @@
   "itemName" : "lager",
   "rarity" : "Common",
   "category" : "drink",
-  "price" : 100,
+  "price" : 440,
   "inventoryIcon" : "lager.png",
   "description" : "Effect: ^orange;300s^reset;
 ^cyan;+25% Damage^reset;",
